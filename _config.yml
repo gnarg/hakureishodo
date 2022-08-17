@@ -33,24 +33,30 @@ domain: gnarg.github.io
 url: https://gnarg.github.io
 # baseurl: hakureishodo
 repository: gnarg/hakureishodo
-
-# Build settings
-minimal_mistakes_skin: dirt
-layout: single
-classes: wide
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
 atom_feed:
   hide: true
+minimal_mistakes_skin: dirt
 
 defaults:
   - scope:
       path: ''
-      type: posts
     values:
-      layout: single
       classes: wide
+      author_profile: true
+      gallery:
+        - image_path: /assets/images/performance.jpg
+          url: /assets/images/performance.jpg
+        - image_path: /assets/images/shodo.jpg
+        - image_path: /assets/images/shodo.jpg
+        - image_path: /assets/images/shodo.jpg
+        - image_path: /assets/images/shodo.jpg
+        - image_path: /assets/images/fans.jpg
+          url: /assets/images/fans.jpg
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.

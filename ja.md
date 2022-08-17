@@ -1,18 +1,9 @@
 ---
 layout: home
 locale: ja
-classes: wide
 title: Hakurei Shodo
-author_profile: true
 header:
   overlay_image: /assets/images/shodo.jpg
-gallery:
-  - image_path: /assets/images/shodo.jpg
-  - image_path: /assets/images/shodo.jpg
-  - image_path: /assets/images/shodo.jpg
-  - image_path: /assets/images/shodo.jpg
-  - image_path: /assets/images/shodo.jpg
-  - image_path: /assets/images/shodo.jpg
 author:
   name: Hakueri Ito
   bio: 海砂利水魚の。水行末 雲来末 風来末、グーリンダイのポンポコピーのポンポコナーの。長久命の長助、グーリンダイのポンポコピーのポンポコナーの、やぶら小路の藪柑子、シューリンガンのグーリンダイ。シューリンガンのグーリンダイ。やぶら小路の藪柑子。長久命の長助。五劫の擦り切れ、パイポパイポ パイポのシューリンガン、水行末 雲来末 風来末。五劫の擦り切れ、海砂利水魚の。寿限無、寿限無、食う寝る処に住む処。寿限無、寿限無。パイポパイポ パイポのシューリンガン。
@@ -21,7 +12,7 @@ author:
   links:
     - label: Instagram
       icon: 'fab fa-fw fa-instagram'
-      url: https://instagram.com/itohakurei
+      url: https://instagram.com/ito.hakurei
 ---
 
 ## Classes
