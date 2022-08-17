@@ -1,6 +1,8 @@
 ---
 main:
   - title: Classes
-    url: '#classes'
+    url: "#classes"
   - title: Gallery
-    url: '#gallery'
+    url: "#gallery"
+  - title: 日本語
+    url: ja

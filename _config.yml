@@ -32,6 +32,7 @@ logo: /assets/images/stamp.jpg
 domain: gnarg.github.io
 url: https://gnarg.github.io
 # baseurl: hakureishodo
+repository: gnarg/hakureishodo
 
 # Build settings
 minimal_mistakes_skin: dirt
@@ -42,16 +43,6 @@ plugins:
   - jekyll-include-cache
 atom_feed:
   hide: true
-
-author:
-  name: Hakueri Ito
-  bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  location: Portland, Oregon
-  avatar: assets/images/kaori.jpg
-  links:
-    - label: Instagram
-      icon: 'fab fa-fw fa-instagram'
-      url: https://instagram.com/itohakurei
 
 defaults:
   - scope:
