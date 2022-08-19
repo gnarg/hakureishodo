@@ -9,7 +9,7 @@ author:
     * Sogen Exhibition 2nd Category Award - Won twice, selected four times
     * Mainichi Calligraphy Exhibition Award
   location: Portland, Oregon
-  avatar: assets/images/kaori-3.jpg
+  avatar: assets/images/kaori-3.JPG
   links:
     - label: Instagram
       icon: 'fab fa-fw fa-instagram'

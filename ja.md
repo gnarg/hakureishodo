@@ -15,7 +15,7 @@ author:
     * 創玄展２科賞　入賞２回 入選４回
     * 毎日書道展　　入選１回
   location: Portland, Oregon
-  avatar: assets/images/kaori-3.jpg
+  avatar: assets/images/kaori-3.JPG
   links:
     - label: Instagram
       icon: 'fab fa-fw fa-instagram'
