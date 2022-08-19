@@ -65,13 +65,13 @@ defaults:
         - image_path: /assets/images/IMG_7933.png
           url: /assets/images/IMG_7933.png
         - image_path: /assets/images/IMG_7935.png
-          url: /assets/images/IMG_7935.jpeg
+          url: /assets/images/IMG_7935.png
         - image_path: /assets/images/IMG_8700.jpeg
           url: /assets/images/IMG_8700.jpeg
         - image_path: /assets/images/IMG_8701.png
-          url: /assets/images/IMG_8701.jpeg
+          url: /assets/images/IMG_8701.png
         - image_path: /assets/images/IMG_8702.png
-          url: /assets/images/IMG_8702.jpeg
+          url: /assets/images/IMG_8702.png
         - image_path: /assets/images/IMG_1150.jpeg # wide
           url: /assets/images/IMG_1150.jpeg
         - image_path: /assets/images/IMG_1154.jpeg # wide
@@ -80,26 +80,29 @@ defaults:
           url: /assets/images/IMG_1155.jpeg
         - image_path: /assets/images/IMG_5902.jpeg # wide
           url: /assets/images/IMG_5902.jpeg
-        - image_path: /assets/images/class-1.JPG
-          url: /assets/images/class-1.JPG
-        - image_path: /assets/images/class-2.jpeg
-          url: /assets/images/class-2.jpeg
-        - image_path: /assets/images/class-3.JPG
-          url: /assets/images/class-3.JPG
-        - image_path: /assets/images/class-4.JPG
-          url: /assets/images/class-4.JPG
-        - image_path: /assets/images/class-5.JPG
-          url: /assets/images/class-5.JPG
-        - image_path: /assets/images/class-6.JPG
-          url: /assets/images/class-6.JPG
-        - image_path: /assets/images/class-7.JPG
-          url: /assets/images/class-7.JPG
-        - image_path: /assets/images/class-8.JPG
-          url: /assets/images/class-8.JPG
+
+        # - image_path: /assets/images/class-1.JPG
+        #   url: /assets/images/class-1.JPG
+        # - image_path: /assets/images/class-2.jpeg
+        #   url: /assets/images/class-2.jpeg
+        # - image_path: /assets/images/class-3.JPG
+        #   url: /assets/images/class-3.JPG
+        # - image_path: /assets/images/class-4.JPG
+        #   url: /assets/images/class-4.JPG
+        # - image_path: /assets/images/class-5.JPG
+        #   url: /assets/images/class-5.JPG
+        # - image_path: /assets/images/class-6.JPG
+        #   url: /assets/images/class-6.JPG
+        # - image_path: /assets/images/class-7.JPG
+        #   url: /assets/images/class-7.JPG
+        # - image_path: /assets/images/class-8.JPG
+        #   url: /assets/images/class-8.JPG
+
         # - image_path: /assets/images/new-IMG_0295.JPG
         #   url: /assets/images/new-IMG_0295.JPG
         # - image_path: /assets/images/new-IMG_1139.JPG
         #   url: /assets/images/new-IMG_1139.JPG
+
         - image_path: /assets/images/new-IMG_1370.JPG
           url: /assets/images/new-IMG_1370.JPG
         - image_path: /assets/images/new-IMG_1477.JPG

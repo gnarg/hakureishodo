@@ -11,6 +11,9 @@ author:
   location: Portland, Oregon
   avatar: assets/images/kaori-3.JPG
   links:
+    - label: hakurei.shodo@gmail.com
+      icon: 'fas fa-envelope'
+      url: mailto:hakurei.shodo@gmail.com
     - label: Instagram
       icon: 'fab fa-fw fa-instagram'
       url: https://instagram.com/ito.hakurei
