@@ -2,13 +2,20 @@
 layout: home
 locale: ja
 title: Hakurei Shodo
-header:
-  overlay_image: /assets/images/shodo.jpg
 author:
-  name: Hakueri Ito
-  bio: 海砂利水魚の。水行末 雲来末 風来末、グーリンダイのポンポコピーのポンポコナーの。長久命の長助、グーリンダイのポンポコピーのポンポコナーの、やぶら小路の藪柑子、シューリンガンのグーリンダイ。シューリンガンのグーリンダイ。やぶら小路の藪柑子。長久命の長助。五劫の擦り切れ、パイポパイポ パイポのシューリンガン、水行末 雲来末 風来末。五劫の擦り切れ、海砂利水魚の。寿限無、寿限無、食う寝る処に住む処。寿限無、寿限無。パイポパイポ パイポのシューリンガン。
+  name: 伊藤白嶺
+  bio: |
+    神奈川県横浜市出身
+    小中学生の部の全ての課程を修了。
+    ２０１１年オレゴン州のポートランドに移住後
+    再び書道を学び始め、大胡石馨に師事
+    更に、２０２０年より日本の墨転社代表、鈴木不倒にも師事
+    数々の展覧会などに挑戦し、さらなる飛躍に向けて学び続けている  
+    受賞歴
+    * 創玄展２科賞　入賞２回 入選４回
+    * 毎日書道展　　入選１回
   location: Portland, Oregon
-  avatar: assets/images/kaori.jpg
+  avatar: assets/images/kaori-3.jpg
   links:
     - label: Instagram
       icon: 'fab fa-fw fa-instagram'

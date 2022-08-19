@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 # twitter_username: jekyllrb
 # github_username:  jekyll
-logo: /assets/images/stamp.jpg
+logo: /assets/images/stamp.png
 domain: gnarg.github.io
 url: https://gnarg.github.io
 # baseurl: hakureishodo
@@ -43,15 +43,69 @@ defaults:
     values:
       classes: wide
       author_profile: true
+      header:
+        overlay_image: /assets/images/IMG_1150.jpeg
       gallery:
-        - image_path: /assets/images/performance.jpg
-          url: /assets/images/performance.jpg
-        - image_path: /assets/images/shodo.jpg
-        - image_path: /assets/images/shodo.jpg
-        - image_path: /assets/images/shodo.jpg
-        - image_path: /assets/images/shodo.jpg
+        # - image_path: /assets/images/performance.jpg
+        #   url: /assets/images/performance.jpg
+        - image_path: /assets/images/IMG_0570.jpeg
+          url: /assets/images/IMG_0570.jpeg
+        - image_path: /assets/images/IMG_0572.jpeg
+          url: /assets/images/IMG_0572.jpeg
+        - image_path: /assets/images/IMG_1153.jpeg
+          url: /assets/images/IMG_1153.jpeg
         - image_path: /assets/images/fans.jpg
           url: /assets/images/fans.jpg
+        - image_path: /assets/images/IMG_1289.jpeg
+          url: /assets/images/IMG_1289.jpeg
+        # - image_path: /assets/images/IMG_7586.png
+        #   url: /assets/images/IMG_7586.png
+        - image_path: /assets/images/IMG_7932.jpeg
+          url: /assets/images/IMG_7932.jpeg
+        - image_path: /assets/images/IMG_7933.png
+          url: /assets/images/IMG_7933.png
+        - image_path: /assets/images/IMG_7935.png
+          url: /assets/images/IMG_7935.jpeg
+        - image_path: /assets/images/IMG_8700.jpeg
+          url: /assets/images/IMG_8700.jpeg
+        - image_path: /assets/images/IMG_8701.png
+          url: /assets/images/IMG_8701.jpeg
+        - image_path: /assets/images/IMG_8702.png
+          url: /assets/images/IMG_8702.jpeg
+        - image_path: /assets/images/IMG_1150.jpeg # wide
+          url: /assets/images/IMG_1150.jpeg
+        - image_path: /assets/images/IMG_1154.jpeg # wide
+          url: /assets/images/IMG_1154.jpeg
+        - image_path: /assets/images/IMG_1155.jpeg # wide
+          url: /assets/images/IMG_1155.jpeg
+        - image_path: /assets/images/IMG_5902.jpeg # wide
+          url: /assets/images/IMG_5902.jpeg
+        - image_path: /assets/images/class-1.JPG
+          url: /assets/images/class-1.JPG
+        - image_path: /assets/images/class-2.jpeg
+          url: /assets/images/class-2.jpeg
+        - image_path: /assets/images/class-3.JPG
+          url: /assets/images/class-3.JPG
+        - image_path: /assets/images/class-4.JPG
+          url: /assets/images/class-4.JPG
+        - image_path: /assets/images/class-5.JPG
+          url: /assets/images/class-5.JPG
+        - image_path: /assets/images/class-6.JPG
+          url: /assets/images/class-6.JPG
+        - image_path: /assets/images/class-7.JPG
+          url: /assets/images/class-7.JPG
+        - image_path: /assets/images/class-8.JPG
+          url: /assets/images/class-8.JPG
+        # - image_path: /assets/images/new-IMG_0295.JPG
+        #   url: /assets/images/new-IMG_0295.JPG
+        # - image_path: /assets/images/new-IMG_1139.JPG
+        #   url: /assets/images/new-IMG_1139.JPG
+        - image_path: /assets/images/new-IMG_1370.JPG
+          url: /assets/images/new-IMG_1370.JPG
+        - image_path: /assets/images/new-IMG_1477.JPG
+          url: /assets/images/new-IMG_1477.JPG
+        - image_path: /assets/images/new-IMG_9311.JPG
+          url: /assets/images/new-IMG_9311.JPG
 
 # Build settings
 plugins:
