@@ -12,10 +12,10 @@ author:
   avatar: assets/images/kaori-3.JPG
   links:
     - label: hakurei.shodo@gmail.com
-      icon: 'fas fa-envelope'
+      icon: fas fa-envelope
       url: mailto:hakurei.shodo@gmail.com
     - label: Instagram
-      icon: 'fab fa-fw fa-instagram'
+      icon: fab fa-instagram-square
       url: https://instagram.com/ito.hakurei
 
 # sidebar:
