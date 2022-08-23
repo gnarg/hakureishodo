@@ -6,3 +6,5 @@ main:
     url: "#gallery"
   - title: 日本語
     url: ja
+  - title: En
+    url: /
