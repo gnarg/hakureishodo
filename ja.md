@@ -41,7 +41,7 @@ author:
 定員12人   
 講師　伊藤白嶺　西野真畒
 
-[**Richmond 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Richmond 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
 
 1. 正しい筆順でお手本通りに書くことで、バランス良くきれいに整った字が書ける
 1. ひらがな 、カタカナ、漢字などの文字や言葉を学ぶ事ができる。
@@ -56,7 +56,7 @@ author:
 定員10人  
 講師　伊藤白嶺
 
-[**Mt. Tabor 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Mt. Tabor 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
 
 などの書道を学ぶクラスです。
 

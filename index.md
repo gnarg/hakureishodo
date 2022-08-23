@@ -37,7 +37,7 @@ Fall term (September - December) 2022
 **Class size**: 12  
 **Instructors**: Hakurei Ito, Mahiro Nishino
 
-[**Richmond Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Richmond Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
 
 This is a class to learn basic japanese calligraphy.
 
@@ -52,7 +52,7 @@ This is a class to learn basic japanese calligraphy.
 **Class size**: 10  
 **Instructor**: Hakurei Ito
 
-[**Mt. Tabor Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Mt. Tabor Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
 
 This is a class to further sudy japanese calligraphy.
 
