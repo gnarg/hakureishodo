@@ -36,6 +36,8 @@ repository: gnarg/hakureishodo
 atom_feed:
   hide: true
 minimal_mistakes_skin: dirt
+head_scripts:
+  - /assets/js/newrelic.js
 signup_icon: <img src="/assets/images/user-plus-solid.svg" width="25" height="25" />
 
 defaults:
