@@ -35,7 +35,7 @@ Fall term (September - December) 2022
 **Class fee**: $180  
 **Student age**: 1st to 5th grade  
 **Class size**: 12  
-**Instructors**: Hakurei Ito, Mahiro Nishino
+**Instructors**: Hakurei Ito, Maho Nishino
 
 [{{ site.signup_icon }} **Richmond Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
 
