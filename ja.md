@@ -15,7 +15,7 @@ author:
     * 創玄展２科賞　入賞２回 入選４回
     * 毎日書道展　　入選１回
   location: Portland, Oregon
-  avatar: assets/images/kaori-3.JPG
+  avatar: assets/images/thumb-kaori-3.JPG
   links:
     - label: hakurei.shodo@gmail.com
       icon: fas fa-envelope

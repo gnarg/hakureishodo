@@ -9,7 +9,7 @@ author:
     * Sogen Exhibition 2nd Category Award - Won twice, selected four times
     * Mainichi Calligraphy Exhibition Award
   location: Portland, Oregon
-  avatar: assets/images/kaori-3.JPG
+  avatar: assets/images/thumb-kaori-3.JPG
   links:
     - label: hakurei.shodo@gmail.com
       icon: fas fa-envelope
