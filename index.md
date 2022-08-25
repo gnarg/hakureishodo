@@ -56,7 +56,7 @@ This is a class to learn basic japanese calligraphy.
 
 This is a class to further sudy japanese calligraphy.
 
-1. In addition to the basics, you can register for Bokutensha News in Japan and learn other calligraphy arts, kakizome, pen characters, etc. (Additional $3 will be charged per submission for materials)
+1. In addition to the basics, you can register for [Bokutensha News](https://bokutensha.com) in Japan and learn other calligraphy arts, kakizome, pen characters, etc. (Additional $3 will be charged per submission for materials)
 1. We will receive textbooks sent from Japan every month, and study according to age and level appropriate models.
 1. Each month, excellent work will be photographed and published in the next month’s textbook.
 
