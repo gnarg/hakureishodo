@@ -49,8 +49,11 @@ defaults:
       header:
         overlay_image: /assets/images/IMG_1150.jpeg
       gallery:
-        - image_path: /assets/images/thumb-IMG_7932.jpeg
-          url: /assets/images/IMG_7932.jpeg
+        # - image_path: /assets/images/thumb-IMG_7932.jpeg
+        #   url: /assets/images/IMG_7932.jpeg
+        # IMG_7932
+        - image_path: https://drive.google.com/uc?id=16Mw8Al2gYuyy7O-EmM0-5HCCZsOVGMle&ext=.jpeg
+          url: https://drive.google.com/uc?id=1z86EgquCLWj-QV6lUOLfWXyVNsCtKaIX&ext=.jpeg
         - image_path: /assets/images/thumb-IMG_7933.png
           url: /assets/images/IMG_7933.png
         - image_path: /assets/images/thumb-IMG_7935.png
