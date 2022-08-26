@@ -49,65 +49,96 @@ defaults:
       header:
         overlay_image: /assets/images/IMG_1150.jpeg
       gallery:
-        # - image_path: /assets/images/thumb-IMG_7932.jpeg
-        #   url: /assets/images/IMG_7932.jpeg
-        # IMG_7932
+        # IMG_7932.jpeg
         - image_path: https://drive.google.com/uc?id=16Mw8Al2gYuyy7O-EmM0-5HCCZsOVGMle&ext=.jpeg
           url: https://drive.google.com/uc?id=1z86EgquCLWj-QV6lUOLfWXyVNsCtKaIX&ext=.jpeg
-        - image_path: /assets/images/thumb-IMG_7933.png
-          url: /assets/images/IMG_7933.png
-        - image_path: /assets/images/thumb-IMG_7935.png
-          url: /assets/images/IMG_7935.png
-        - image_path: /assets/images/thumb-IMG_0572.jpeg
-          url: /assets/images/IMG_0572.jpeg
-        - image_path: /assets/images/thumb-fans.jpg
-          url: /assets/images/fans.jpg
-        - image_path: /assets/images/thumb-IMG_1289.jpeg
-          url: /assets/images/IMG_1289.jpeg
-        - image_path: /assets/images/thumb-IMG_8700.jpeg
-          url: /assets/images/IMG_8700.jpeg
-        - image_path: /assets/images/thumb-IMG_8701.png
-          url: /assets/images/IMG_8701.png
-        - image_path: /assets/images/thumb-IMG_8702.png
-          url: /assets/images/IMG_8702.png
-        - image_path: /assets/images/thumb-IMG_1150.jpeg # wide
-          url: /assets/images/IMG_1150.jpeg
-        # - image_path: /assets/images/IMG_1154.jpeg # wide
-        #   url: /assets/images/IMG_1154.jpeg
-        - image_path: /assets/images/thumb-IMG_1155.jpeg # wide
-          url: /assets/images/IMG_1155.jpeg
-        - image_path: /assets/images/thumb-IMG_5902.jpeg # wide
-          url: /assets/images/IMG_5902.jpeg
-
-        - image_path: /assets/images/thumb-new-IMG_1707.JPG
-          url: /assets/images/new-IMG_1707.JPG
-        - image_path: /assets/images/thumb-new-IMG_1602.JPG
-          url: /assets/images/new-IMG_1602.JPG
-        - image_path: /assets/images/thumb-new-IMG_1479.JPG
-          url: /assets/images/new-IMG_1479.JPG
-        - image_path: /assets/images/thumb-new-IMG_9988.JPG
-          url: /assets/images/new-IMG_9988.JPG
-
-        # - image_path: /assets/images/new-IMG_0295.JPG
-        #   url: /assets/images/new-IMG_0295.JPG
-        # - image_path: /assets/images/new-IMG_1139.JPG
-        #   url: /assets/images/new-IMG_1139.JPG
-
-        - image_path: /assets/images/thumb-new-IMG_1370.JPG
-          url: /assets/images/new-IMG_1370.JPG
-        # - image_path: /assets/images/new-IMG_1477.JPG
-        #   url: /assets/images/new-IMG_1477.JPG
-        - image_path: /assets/images/thumb-new-IMG_9311.JPG
-          url: /assets/images/new-IMG_9311.JPG
-
-        # - image_path: /assets/images/IMG_1153.jpeg
-        #   url: /assets/images/IMG_1153.jpeg
-        # - image_path: /assets/images/performance.jpg
-        #   url: /assets/images/performance.jpg
-        # - image_path: /assets/images/IMG_0570.jpeg
-        #   url: /assets/images/IMG_0570.jpeg
-        # - image_path: /assets/images/IMG_7586.png
-        #   url: /assets/images/IMG_7586.png
+        # - image_path: /assets/images/thumb-IMG_7932.jpeg
+        #   url: /assets/images/IMG_7932.jpeg
+        # IMG_7933.png
+        - image_path:  https://drive.google.com/uc?id=1EgH5fY6ZA8z0uoHH0puycSnhLBQaa7tP&ext=.png
+          url: https://drive.google.com/uc?id=1CFTL7m4VEQ9uKiRFxio2APYUpN8w1YJu&ext=.png
+        # - image_path: /assets/images/thumb-IMG_7933.png
+        #   url: /assets/images/IMG_7933.png
+        # IMG_7935.png
+        - image_path: https://drive.google.com/uc?id=1dOJ5U8Ak_PduZyhJv5AZPUGU-rWeP1JV&ext=.png
+          url: https://drive.google.com/uc?id=1NsmB8v7L6iblmMl4LTw5L8Kc4qX5LWOt&ext=.png
+        # - image_path: /assets/images/thumb-IMG_7935.png
+        #   url: /assets/images/IMG_7935.png
+        # IMG_0572.jpeg
+        - image_path: https://drive.google.com/uc?id=189OOzyaTQ5f0ZIJ766Fas2a346KAWKtq&ext=.jpeg
+          url: https://drive.google.com/uc?id=1YrLohnaEPVUmTtDMgfE3XJiptu-eZGoq&ext=.jpeg
+        # - image_path: /assets/images/thumb-IMG_0572.jpeg
+        #   url: /assets/images/IMG_0572.jpeg
+        # fans.jpg
+        - image_path: https://drive.google.com/uc?id=1DLi0Hah_Qh1tZ1XrUCIY8J1p9xImWld_&ext=.jpg
+          url: https://drive.google.com/uc?id=105HRhn8JMUggT2Y9CZFUD8VgyNXeMu2G&ext=.jpg
+        # - image_path: /assets/images/thumb-fans.jpg
+        #   url: /assets/images/fans.jpg
+        # IMG_1289.jpeg
+        - image_path: https://drive.google.com/uc?id=1bfmRcU1c0-KtrpDp_ytN0TAvK3HCs_e5&ext=.jpeg
+          url: https://drive.google.com/uc?id=1NlKvVwnw8_bv6buBddujowFFFtR47jg9&ext=.jpeg
+        # - image_path: /assets/images/thumb-IMG_1289.jpeg
+        #   url: /assets/images/IMG_1289.jpeg
+        # IMG_8700.jpeg
+        - image_path:  https://drive.google.com/uc?id=1X0_tEMRJE1Kvr9XjCeeBi5BYN7_2p8Wp&ext=.jpeg
+          url: https://drive.google.com/uc?id=17YSc3-MCfs9X142fX7zSPLIIC0tEIWwd&ext=.jpeg
+        # - image_path: /assets/images/thumb-IMG_8700.jpeg
+        #   url: /assets/images/IMG_8700.jpeg
+        # IMG_8701.png
+        - image_path: https://drive.google.com/uc?id=1_J2Os1XptzPi3VFIiv_fMFTkwn41YyXx&ext=.png
+          url: https://drive.google.com/uc?id=1JIkkp8xy-WAq-mJGFqoYnARtPIex4Rgg&ext=.png
+        # - image_path: /assets/images/thumb-IMG_8701.png
+        #   url: /assets/images/IMG_8701.png
+        # IMG_8702.png
+        - image_path: https://drive.google.com/uc?id=1QeUKEPWiRAmpnoMmBhUjXNEFKR6wdR4r&ext=.png
+          url: https://drive.google.com/uc?id=1LsLJgbmPIG3FtyM8DDBoyTxgtaSbpxv_&ext=.png
+        # - image_path: /assets/images/thumb-IMG_8702.png
+        #   url: /assets/images/IMG_8702.png
+        # IMG_1150.jpeg wide
+        - image_path: https://drive.google.com/uc?id=1VTtdsLSJr8doCcUQkeBskmnqR5QTU4tT&ext=.jpeg
+          url: https://drive.google.com/uc?id=15Z-FvvBzXp8rA1R7tQm310d8ienJiloc&ext=.jpeg
+        # - image_path: /assets/images/thumb-IMG_1150.jpeg
+        #   url: /assets/images/IMG_1150.jpeg
+        # IMG_1155.jpeg wide
+        - image_path: https://drive.google.com/uc?id=1-bO6SHgE9Tp6ZhR1an992-V5QuwsSDwU&ext=.jpeg
+          url: https://drive.google.com/uc?id=1NO2E4X7NN0sWkeABHBvdAKzBWhrec9RR&ext=.jpeg
+        # - image_path: /assets/images/thumb-IMG_1155.jpeg # wide
+        #   url: /assets/images/IMG_1155.jpeg
+        # IMG_5902.jpeg wide
+        - image_path: https://drive.google.com/uc?id=1cH_FsQPGT1lLzPBAXnzh_ZEtDdNrKpiU&ext=.jpeg
+          url: https://drive.google.com/uc?id=11qE3BSJarBxGMocBhwqTpCYWoM9vkiom&ext=.jpeg
+        # - image_path: /assets/images/thumb-IMG_5902.jpeg # wide
+        #   url: /assets/images/IMG_5902.jpeg
+        # new-IMG_1707.JPG
+        - image_path: https://drive.google.com/uc?id=12dmcxbBQBtlboXyeIlRIu_H_C3QfIe-j&ext=.JPG
+          url: https://drive.google.com/uc?id=1bmyRRoOw01nvByqF6G9QQkGmHXYNYH_O&ext=.JPG
+        # - image_path: /assets/images/thumb-new-IMG_1707.JPG
+        #   url: /assets/images/new-IMG_1707.JPG
+        # new-IMG_1602.JPG
+        - image_path: https://drive.google.com/uc?id=1bMVQfLFU89k2u3Oqxq5NADBRAPvUs4hc&ext=.JPG
+          url: https://drive.google.com/uc?id=1rDRSlUiR0w9NknsK4j9ZHFiJwXp02Vh-&ext=.JPG
+        # - image_path: /assets/images/thumb-new-IMG_1602.JPG
+        #   url: /assets/images/new-IMG_1602.JPG
+        # new-IMG_1479.JPG
+        - image_path: https://drive.google.com/uc?id=1NcMIvROfxPsTfPi4KGHGScMXLFh_b-e5&ext=.JPG
+          url: https://drive.google.com/uc?id=1-ZDyAfexyToLDtI4BIBIqhZArMUuxXSi&ext=.JPG
+        # - image_path: /assets/images/thumb-new-IMG_1479.JPG
+        #   url: /assets/images/new-IMG_1479.JPG
+        # new-IMG_9988.JPG
+        - image_path: https://drive.google.com/uc?id=1x_tZfN1I3KCo2bZQSlYomiEBVO3N0J6V&ext=.JPG
+          url: https://drive.google.com/uc?id=1Hm9mTwwFaNuk82gNFhfoJmo_ebo4Q0cY&ext=.JPG
+        # - image_path: /assets/images/thumb-new-IMG_9988.JPG
+        #   url: /assets/images/new-IMG_9988.JPG
+        # new-IMG_1370.JPG
+        - image_path: https://drive.google.com/uc?id=1h3Vo6dMUqKbi27VLo7XxQz2X8E58DkGd&ext=.JPG
+          url: https://drive.google.com/uc?id=1pvbTUvMmDaiM0PbNuWQ4T_ZGtTzx1A_f&ext=.JPG
+        # - image_path: /assets/images/thumb-new-IMG_1370.JPG
+        #   url: /assets/images/new-IMG_1370.JPG
+        # new-IMG_9311.JPG
+        - image_path: https://drive.google.com/uc?id=1TqB9ZAhDXYPGoS8v-6Fc_r4YQzf5Q8fm&ext=.JPG
+          url: https://drive.google.com/uc?id=1BIxZd_cGqm6tzIVZPoaxH-FkLGMgeQE7&ext=.JPG
+        # - image_path: /assets/images/thumb-new-IMG_9311.JPG
+        #   url: /assets/images/new-IMG_9311.JPG
 
 # Build settings
 plugins:
