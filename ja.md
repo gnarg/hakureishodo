@@ -39,7 +39,7 @@ author:
 クラスフィー＄180  
 対象学年　1年生ー5年生  
 定員12人   
-講師　伊藤白嶺　西野真畒
+講師　伊藤白嶺　マイオリーノ　亜弥
 
 [{{ site.signup_icon }} **Richmond 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
 
@@ -58,7 +58,6 @@ author:
 
 [{{ site.signup_icon }} **Mt. Tabor 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
 
-などの書道を学ぶクラスです。
 
 1. 基本的な事はもちろん、日本の[墨転社ニュース](https://www.bokutensha.com)に登録し、更に他の書体　書道アート,書き初め,ペン字などを学ぶことができる。（ペン字用の提出ノート別途＄３かかります）
 1. 毎月、日本から送られてくる教科書を受け取り、年齢に応じたお手本で学ぶ。
