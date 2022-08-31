@@ -39,7 +39,7 @@ author:
 クラスフィー＄180  
 対象学年　1年生ー5年生  
 定員12人   
-講師　伊藤白嶺　マイオリーノ　亜弥
+講師　伊藤白嶺　マイオリーノ亜弥
 
 [{{ site.signup_icon }} **Richmond 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
 
