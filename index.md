@@ -25,7 +25,7 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 # Class Information
 
 ### Richmond Elementarty After School Program
-[//]: **!! Enrollment full !!** sign up for [waitlist](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
+**!! Enrollment full !!** sign up for [waitlist](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
 
 *Monday 2:30-3:30 (60 minutes)*  
 Fall term (September - December) 2022  
@@ -36,7 +36,7 @@ Fall term (September - December) 2022
 **Class size**: 12  
 **Instructors**: Hakurei Ito, Aya Maiorino
 
-[{{ site.signup_icon }} **Richmond Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Richmond Waitlist Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
 
 This is a class to learn basic japanese calligraphy.
 
