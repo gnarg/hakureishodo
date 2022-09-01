@@ -44,7 +44,7 @@ author:
 定員13人   
 講師　伊藤白嶺　マイオリーノ亜弥
 
-[{{ site.signup_icon }} **Richmond 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Richmond 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
 
 1. 正しい筆順でお手本通りに書くことで、バランス良くきれいに整った字が書ける
 1. ひらがな 、カタカナ、漢字などの文字や言葉を学ぶ事ができる。
