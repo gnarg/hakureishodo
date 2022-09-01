@@ -25,7 +25,7 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 # Class Information
 
 ### Richmond Elementarty After School Program
-**!! Enrollment full !!** sign up for [waitlist](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
+**We have reached capacity.** Please sign up for the [waiting list](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
 
 *Monday 2:30-3:30 (60 minutes)*  
 Fall term (September - December) 2022  
@@ -36,7 +36,7 @@ Fall term (September - December) 2022
 **Class size**: 12  
 **Instructors**: Hakurei Ito, Aya Maiorino
 
-[{{ site.signup_icon }} **Richmond Waitlist Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Richmond waiting list sign up form**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
 
 This is a class to learn basic japanese calligraphy.
 
@@ -51,7 +51,7 @@ This is a class to learn basic japanese calligraphy.
 **Class size**: 10  
 **Instructor**: Hakurei Ito
 
-[{{ site.signup_icon }} **Mt. Tabor Sign Up Form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Mt. Tabor sign up form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
 
 This is a class to further sudy japanese calligraphy.
 
