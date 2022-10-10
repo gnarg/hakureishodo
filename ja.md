@@ -52,14 +52,14 @@ author:
 
 などの習字を学ぶクラスです。
 
-### Mt. Tabor Class
+### South East Portland Community Class
 *木曜日3:00-4:30(90分)/5:00-6:30(90分）*  
 月謝（月４回（５週目がある場合はお休みです） $90（日本墨転社への送料、審査費用、教科書代含む）  
 対象学年1年生ー８年生  
 定員10人  
 講師　伊藤白嶺
 
-[{{ site.signup_icon }} **Mt. Tabor 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Community Class 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
 
 
 1. 基本的な事はもちろん、日本の[墨転社ニュース](https://www.bokutensha.com)に登録し、更に他の書体　書道アート,書き初め,ペン字などを学ぶことができる。（ペン字用の提出ノート別途＄３かかります）

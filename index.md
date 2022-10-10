@@ -44,14 +44,13 @@ This is a class to learn basic japanese calligraphy.
 1. You can learn letters and words such as hiragana, katakana, and kanji.
 1. Improve your posture when writing and improve your concentration.
 
-### Mt. Tabor Class
+### South East Portland Community Class
 *Thursday 3:00-4:30 (90 minutes) / 5:00-6:30 (90 minutes)*  
-**Location**: 1645 SE 54th Ave  
 **Monthly fee**: $90 for 4 times a month (including shipping fee to Nihonbokutensha, examination fee, and textbook fee)  
 **Class size**: 10  
 **Instructor**: Hakurei Ito
 
-[{{ site.signup_icon }} **Mt. Tabor sign up form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
+[{{ site.signup_icon }} **Community Class sign up form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
 
 This is a class to further sudy japanese calligraphy.
 
