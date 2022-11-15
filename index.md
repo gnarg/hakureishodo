@@ -28,12 +28,12 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 **We have reached capacity.** Please sign up for the [waiting list](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
 
 *Monday 2:30-3:30 (60 minutes)*  
-Fall term (September - December) 2022  
-**Dates**: 9/12, 19, 26, 10/3, 10, 17, 24, 31, 11/7, 14, 12/5, 12 (12 times in total)  
+Winter term (January - March) 2023  
+**Dates**: 1/9.23.30.2/6.13.27.3/6.13.20(9 times in total)  
 **Location**: Richmond Elementary  
-**Class fee**: $180  
+**Class fee**: $135  
 **Student age**: 1st to 5th grade  
-**Class size**: 12  
+**Class size**: 15 
 **Instructors**: Hakurei Ito, Aya Maiorino
 
 [{{ site.signup_icon }} **Richmond waiting list sign up form**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
