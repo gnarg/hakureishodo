@@ -29,7 +29,7 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 
 *Monday 2:30-3:30 (60 minutes)*  
 Winter term (January - March) 2023  
-**Dates**: 1/9.23.30.2/6.13.27.3/6.13.20(9 times in total)  
+**Dates**: 1/9. 23. 30. 2/6. 13. 27. 3/6. 13. 20 (9 times in total)  
 **Location**: Richmond Elementary  
 **Class fee**: $135  
 **Student age**: 1st to 5th grade  
