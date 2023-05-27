@@ -12,7 +12,8 @@ author:
     更に、２０２０年より日本の墨転社代表、鈴木不倒師にも師事
     数々の展覧会などに挑戦し、さらなる飛躍に向けて学び続けている  
     受賞歴
-    * 創玄展２科賞　入賞２回 入選４回
+    * 創玄展２科　入賞２回 入選４回
+           1科  入選1回
     * 毎日書道展　　入選１回
   location: Portland, Oregon
   avatar: assets/images/thumb-kaori-3.JPG
