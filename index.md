@@ -27,14 +27,21 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 ### Richmond Elementarty After School Program
 **We have reached capacity.** Please sign up for the [waiting list](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
 
-*Monday 2:30-3:30 (60 minutes)*  
-Winter term (January - March) 2023  
-**Dates**: 1/9. 23. 30. 2/6. 13. 27. 3/6. 13. 20 (9 times in total)  
+Fall term (Sepember-Decenber) 2023   
+*Monday 2:30-3:30 (60 minutes)*   
+**Dates**:9/11, 18, 25, 10/2, 16, 23, 30, 11/6, 13, 27, 12/4, 11 (12 times) 
 **Location**: Richmond Elementary  
-**Class fee**: $135  
+**Class fee**: $180 
 **Student age**: 1st to 5th grade  
-**Class size**: 15 
-**Instructors**: Hakurei Ito, Aya Maiorino
+**Class size**: 16 
+
+ *Thesday 2:30-3:30 (60 minutes)* 
+ **Dates**:9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14 (14 times)
+ **Location**: Richmond Elementary  
+**Class fee**: $210
+**Student age**: 1st to 5th grade  
+**Class size**: 16 
+
 
 [{{ site.signup_icon }} **Richmond waiting list sign up form**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
 
@@ -45,7 +52,7 @@ This is a class to learn basic japanese calligraphy.
 1. Improve your posture when writing and improve your concentration.
 
 ### South East Portland Community Class
-*Thursday 3:00-4:30 (90 minutes) / 5:00-6:30 (90 minutes)*  
+*Tusesday 4:30-6:00 (90 minutes)*  
 **Monthly fee**: $90 for 4 times a month (including shipping fee to Nihonbokutensha, examination fee, and textbook fee)  
 **Class size**: 10  
 **Instructor**: Hakurei Ito
