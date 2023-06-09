@@ -24,23 +24,23 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 
 # Class Information
 
-### Richmond Elementarty After School Program
+## Richmond Elementarty After School Program
 **We have reached capacity.** Please sign up for the [waiting list](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
 
-Fall term (Sepember-Decenber) 2023   
+*Fall term (Sepember-December) 2023*  
 *Monday 2:30-3:30 (60 minutes)*   
-**Dates**:9/11, 18, 25, 10/2, 16, 23, 30, 11/6, 13, 27, 12/4, 11 (12 times) 
+**Dates**:9/11, 18, 25, 10/2, 16, 23, 30, 11/6, 13, 27, 12/4, 11 (12 times)  
 **Location**: Richmond Elementary  
-**Class fee**: $180 
+**Class fee**: $180  
 **Student age**: 1st to 5th grade  
-**Class size**: 16 
+**Class size**: 16  
 
- *Thursday 2:30-3:30 (60 minutes)* 
-**Dates**:9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14 (14 times)
+*Thursday 2:30-3:30 (60 minutes)*  
+**Dates**:9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14 (14 times)  
 **Location**: Richmond Elementary  
-**Class fee**: $210
+**Class fee**: $210  
 **Student age**: 1st to 5th grade  
-**Class size**: 16 
+**Class size**: 16  
 
 
 [{{ site.signup_icon }} **Richmond waiting list sign up form**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)
