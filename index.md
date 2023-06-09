@@ -36,8 +36,8 @@ Fall term (Sepember-Decenber) 2023
 **Class size**: 16 
 
  *Thursday 2:30-3:30 (60 minutes)* 
- **Dates**:9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14 (14 times)
- **Location**: Richmond Elementary  
+**Dates**:9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14 (14 times)
+**Location**: Richmond Elementary  
 **Class fee**: $210
 **Student age**: 1st to 5th grade  
 **Class size**: 16 
