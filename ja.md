@@ -34,31 +34,26 @@ author:
 # Class Information
 
 ### Richmond Elementarty After School Program
-秋のセッション 2023 （9月ー12月）
-**定員になりましたので、募集を締め切らせていただきました。**
-ウエイティングリストに登録お願いします。空きができ次第ご連絡致します。
-
-
+秋のセッション 2023 （9月ー12月　　
 
 *月曜日  2:30-3:30*   
-**定員になりましたので、募集を締め切らせていただきました。**  
-ウエイティングリストに登録お願いします。空きができ次第ご連絡致します。　　
 
+**定員になりましたので、募集を締め切らせていただきました。**　
+ウエイティングリストに登録お願いします。空きができ次第ご連絡致します。　　　
 [{{ site.signup_icon }} **Richmond Wating List 登録フォーム**]　　
-https://docs.google.com/forms/d/1hV4xh1XNWTXiW24LnEA69TIH8dqmIhFAeVuYQCDiP7c/edit?usp=forms_home&ths=true
-
+https://docs.google.com/forms/d/1hV4xh1XNWTXiW24LnEA69TIH8dqmIhFAeVuYQCDiP7c/edit?usp=forms_home&ths=true　
 クラス日  9/11, 18, 25, 10/2, 16, 23, 30, 11/6, 13, 27, 12/4, 11  (全12回)    
 クラスフィー＄180   
 対象学年　1年生ー5年生      
 定員16人     
 
-*木曜日  2:30-3:30*  
-**定員になりましたので、募集を締め切らせていただきました。**   
-ウエイティングリストに登録お願いします。空きができ次第ご連絡致します。　　　　　
 
+*木曜日  2:30-3:30*  
+
+**定員になりましたので、募集を締め切らせていただきました。**　　 
+ウエイティングリストに登録お願いします。空きができ次第ご連絡致します。　　　　　　
 [{{ site.signup_icon }} **Richmond Wating List 登録フォーム**]　　　　
 https://docs.google.com/forms/d/1wonxUvEQDxqaNMpiaNefoGn-a751l9qD14Hh8yIPw7w/edit　　  
-
 クラス日　9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14　(全14回)  
 クラスフィー＄210  
 対象学年　1年生ー5年生   
