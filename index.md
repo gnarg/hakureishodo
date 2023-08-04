@@ -37,7 +37,7 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 **Class size**: 16  
 
 ### Thursday 2:30-3:30 (60 minutes)
-**We have reached capacity.**  Please sign up for the [{{ site.signup_icon }} **Thursday Class sign up form**](https://docs.google.com/forms/d/e/1FAIpQLSdZfRBnoxVUJzrYSRK0RRoeDIEpvVQnojYtX1kKQQY7tuL_-g/viewform?usp=sf_link)  
+ Please sign up for the [{{ site.signup_icon }} **Thursday Class sign up form**](https://docs.google.com/forms/d/e/1FAIpQLSdZfRBnoxVUJzrYSRK0RRoeDIEpvVQnojYtX1kKQQY7tuL_-g/viewform?usp=sf_link)  
 
 **Dates**: 9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14 (14 times)  
 **Location**: Richmond Elementary  
