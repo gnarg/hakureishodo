@@ -34,7 +34,7 @@ author:
 # Class Information
 
 ## Richmond Elementarty After School Program
-秋のセッション 2023 （9月ー12月　　
+秋のセッション 2023 （9月ー12月)　　
 
 ### 月曜日  2:30-3:30
 
