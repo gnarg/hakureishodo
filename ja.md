@@ -50,7 +50,7 @@ author:
 ### 木曜日  2:30-3:30 
 
 [{{ site.signup_icon }} **Thursday Class sign up form**](https://docs.google.com/forms/d/e/1FAIpQLSdZfRBnoxVUJzrYSRK0RRoeDIEpvVQnojYtX1kKQQY7tuL_-g/viewform?usp=sf_link)
-クラス日　9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14　(全14回)  
+  クラス日　9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14　(全14回)  
 クラスフィー＄210  
 対象学年　1年生ー5年生   
 定員16人    
