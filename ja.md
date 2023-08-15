@@ -38,9 +38,9 @@ author:
 
 ### 月曜日  2:30-3:30
 
-**定員になりましたので、募集を締め切らせていただきました。**   
-ウエイティングリストに登録お願いします。空きができ次第ご連絡致します  
-[{{ site.signup_icon }} **Richmond Wating List 登録フォーム**](https://docs.google.com/forms/d/1hV4xh1XNWTXiW24LnEA69TIH8dqmIhFAeVuYQCDiP7c/edit?usp=forms_home&ths=true)  
+**新規生徒募集**   
+フォームに登録お願い致します。 
+[{{ site.signup_icon }} **Richmond 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)  
 クラス日  9/11, 18, 25, 10/2, 16, 23, 30, 11/6, 13, 27, 12/4, 11  (全12回)    
 クラスフィー＄180   
 対象学年　1年生ー5年生      
