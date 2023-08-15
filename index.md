@@ -34,16 +34,8 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 **Location**: Richmond Elementary  
 **Class fee**: $180  
 **Student age**: 1st to 5th grade  
-**Class size**: 16  
+**Class size**: 24  
 
-### Thursday 2:30-3:30 (60 minutes)
-**We have reached capacity.**  Please sign up for the [{{ site.signup_icon }} waitinglist]}} (https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
-
-**Dates**: 9/7, 14, 21, 28, 10/5, 12, 19, 26, 11/2, 9, 16, 30, 12/7, 14 (14 times)  
-**Location**: Richmond Elementary  
-**Class fee**: $210  
-**Student age**: 1st to 5th grade  
-**Class size**: 16  
 
 This is a class to learn basic japanese calligraphy.
 
