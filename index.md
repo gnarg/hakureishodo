@@ -28,7 +28,7 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 *Fall term (Sepember-December) 2023*  
 
 ### Monday 2:30-3:30 (60 minutes)
-**Full**  Please sign up for the Wait list [{{ site.signup_icon }} Registration form](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
+**ーFullー**  Please sign up for the Wait list [{{ site.signup_icon }} Registration form](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
   
 **Dates**: 9/11, 18, 25, 10/2, 16, 23, 30, 11/6, 13, 27, 12/4, 11 (12 times)  
 **Location**: Richmond Elementary  
