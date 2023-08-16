@@ -38,9 +38,9 @@ author:
 
 ### 月曜日  2:30-3:30
 
-**新規生徒募集!!**   
-こちらのフォームにて登録お願い致します。 
-[{{ site.signup_icon }} **Richmond 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScopdJdZ7yKr70ut2su3IDJdwMpHDWlhBW6W97oMKQ-Yj6t8g/viewform?usp=sf_link)  
+**満席になりましたので募集を締め切らせて頂きました**   
+ご希望の方はこちらの Wait listフォームにて登録お願い致します。スペースに空きができましたら順番にご連絡をさせて頂きます。 
+[{{ site.signup_icon }} **Richmond Wait list 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLSc-RMZEDr7AOA-57TAjDCKnKrS6J85mW1Rg1y2BMYapKP2p7w/viewform?usp=sf_link)  
 クラス日  9/11, 18, 25, 10/2, 16, 23, 30, 11/6, 13, 27, 12/4, 11  (全12回)    
 クラスフィー＄180   
 対象学年　1年生ー5年生      
