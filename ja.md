@@ -34,15 +34,15 @@ author:
 # Class Information
 
 ## Richmond Elementarty After School Program
-秋のセッション 2023 （9月ー12月)　　
+冬のセッション 2024 （1月ー3月)　　
 
-### 月曜日  2:30-3:30
+### 月曜日  2:30-4:00
 
 **満席になりましたので募集を締め切らせて頂きました**   
 ご希望の方はこちらの Wait listフォームにて登録お願い致します。スペースに空きができましたら順番にご連絡をさせて頂きます。 
 [{{ site.signup_icon }} **Richmond Wait list 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
-クラス日  9/11, 18, 25, 10/2, 16, 23, 30, 11/6, 13, 27, 12/4, 11  (全12回)    
-クラスフィー＄180   
+クラス日   1/8, 22, 2/5, 2/19, 26, 3/4, 11, 18 (8 times) No class 2/12   
+クラスフィー＄160   
 対象学年　1年生ー5年生      
 定員24人     
 
