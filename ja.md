@@ -39,7 +39,7 @@ author:
 ### 月曜日  2:30-4:00（毛筆90分）
 
 **冬のセッションの募集は12/8から始まります**   
-ご希望の方はこちらの Wait listフォームにて登録お願い致します。スペースに空きができましたら順番にご連絡をさせて頂きます。 
+
 [{{ site.signup_icon }} **Richmond Wait list 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
 クラス日   1/8, 22, 2/5, 2/19, 26, 3/4, 11, 18 (8 times) No class 2/12   
 クラスフィー＄160   
