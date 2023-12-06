@@ -27,8 +27,10 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 ## Richmond Elementarty After School Program
 *Winter term (January-March) 2024*  
 
-### Monday 2:30-4:00 (Brush class only 90 minutes) 
-**winter term registration will open 12/8**  　Please sign up for the Wait list [{{ site.signup_icon }} Waiting list form](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
+### Monday 
+*2:30-4:00 (Brush class only 90 minutes)*  
+**winter term registration will open 12/8**  　
+Please sign up for the Wait list [{{ site.signup_icon }} Waiting list form](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
   
 **Dates**:  1/8, 22, 2/5, 2/19, 26, 3/4, 11, 18 (8 times) No class 2/12
 **Location**: Richmond Elementary  
@@ -47,7 +49,7 @@ This is a class to learn basic japanese calligraphy.
 *Tusesday 4:30-6:00 (90 minutes)*  
 **Monthly fee**: $90 for 4 times a month (including shipping fee to Nihonbokutensha, examination fee, and textbook fee)  
 **Class size**: 10  
-**Instructor**: Hakurei Ito
+**Age**: 1st to 8th grade
 
 [{{ site.signup_icon }} **Community Class sign up form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
 
