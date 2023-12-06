@@ -32,7 +32,7 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 **winter term registration will open 12/8**  　
 Please sign up for the Wait list [{{ site.signup_icon }} Waiting list form](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
   
-**Dates**:  1/8, 22, 2/5, 2/19, 26, 3/4, 11, 18 (8 times) No class 2/12
+**Dates**:  1/8, 22, 2/5, 2/19, 26, 3/4, 11, 18 (8 times) No class 2/12  
 **Location**: Richmond Elementary  
 **Class fee**: $160  
 **Student age**: 1st to 5th grade  
