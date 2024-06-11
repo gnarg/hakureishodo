@@ -25,15 +25,15 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 # Class Information
 
 ## Richmond Elementarty After School Program
-*Winter term (January-March) 2024*  
+*Fall term (SepーDec) 2024*  
 
 ### Monday 
 *2:30-4:00 (Brush class only 90 minutes)*  
 **Full**  　Please sign up for the Wait list [{{ site.signup_icon }} Waiting list form](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
   
-**Dates**:  1/8, 22, 2/5, 2/19, 26, 3/4, 11, 18 (8 times) No class 2/12  
+**Dates**:    
 **Location**: Richmond Elementary  
-**Class fee**: $160  
+**Class fee**: $  
 **Student age**: 1st to 5th grade  
 **Class size**: 24  
 
@@ -45,9 +45,12 @@ This is a class to learn basic japanese calligraphy.
 1. Improve your posture when writing and improve your concentration.
 
 ### South East Portland Community Class
-*Tusesday 4:30-6:00 (90 minutes)*  
-**Monthly fee**: $90 for 4 times a month (including shipping fee to Nihonbokutensha, examination fee, and textbook fee)  
-**Class size**: 10  
+*Class1 Tusesday 2:50-4:20 (Brush 60min + Pencil 30 min )(90 minutes)*
+*Class2 Tusesday 4:30-6:00 (Brush 60min + Pencil 30 min )(90 minutes)*
+*Class3 Thursday 2:50-4:20 (Brush 60min + Pencil 30 min )(90 minutes)*
+*Class4 Thursday 4:30-6:00 (Brush 60min + Pencil 30 min )(90 minutes)*  
+**Monthly fee**: $80 for 4 times a month and + $10(including shipping fee to Nihonbokutensha, examination fee, and textbook feeIf you join )  
+**Class size**: 6  
 **Age**: 1st to 8th grade  
 **Location**: 1645 SE 54th Ave Portland OR97215  
 [{{ site.signup_icon }} **Community Class sign up form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
