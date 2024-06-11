@@ -42,7 +42,7 @@ author:
 [{{ site.signup_icon }} **Richmond Wait list 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
 
 クラス日    
-クラスフィー＄  
+クラスフィー  
 対象学年　1年生ー5年生      
 定員24人     
 
