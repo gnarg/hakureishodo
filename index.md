@@ -53,7 +53,7 @@ This is a class to learn basic japanese calligraphy.
 
 *Class4  Thursday  4:30-6:00 (Brush 60min + Pencil 30 min )(90 minutes)*  
 
-**Monthly fee**: $80 for 4 times a month + and $10(including shipping fee to Nihonbokutensha, and textbook feeIf you join )  
+**Monthly fee**: $80 for 4 times a month + and $10(including shipping fee to Nihonbokutensha and textbook fee if you join )  
 **Class size**: 6  
 **Age**: 1st to 8th grade  
 **Location**: 1645 SE 54th Ave Portland OR97215  
