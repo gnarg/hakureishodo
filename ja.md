@@ -34,15 +34,15 @@ author:
 # Class Information
 
 ## Richmond Elementarty After School Program
-冬のセッション 2024 （1月ー3月)　　
+秋のセッション 2024 （9月ー12月)　　
 
 ### 月曜日  2:30-4:00（毛筆90分)
 ### 満席になりましたので募集を締め切らせて頂きました
 **ご希望の方はこちらの Wait listフォームにて登録お願い致します。スペースに空きができましたら順番にご連絡をさせて頂きます。**  
 [{{ site.signup_icon }} **Richmond Wait list 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
 
-クラス日   1/8, 22, 2/5, 2/19, 26, 3/4, 11, 18 (8 times) No class 2/12   
-クラスフィー＄160   
+クラス日    
+クラスフィー＄  
 対象学年　1年生ー5年生      
 定員24人     
 
@@ -54,10 +54,14 @@ author:
 などの習字を学ぶクラスです。
 
 ### South East Portland Community Class
-### 火曜日　4:30-6:00(毛筆60分＋硬筆30分)
+### クラス1　火曜日　2:50-4:20(毛筆60分＋硬筆30分)
+### クラス2　火曜日　4:30-6:00(毛筆60分＋硬筆30分)
+### クラス3　木曜日　4:30-6:00(毛筆60分＋硬筆30分)
+
+
 月謝 月４回 $80 + $10（日本墨転社への送料、審査費用、教科書代含む）  
 対象学年1年生ー８年生  
-定員10人  
+１クラス定員６人  
 住所　1645 SE 54 th  Ave Portland OR 97215
 
 [{{ site.signup_icon }} **Community Class 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
