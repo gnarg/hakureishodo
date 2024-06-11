@@ -33,7 +33,7 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
   
 **Dates**:    
 **Location**: Richmond Elementary  
-**Class fee**: $  
+**Class fee**:  
 **Student age**: 1st to 5th grade  
 **Class size**: 24  
 
@@ -48,7 +48,8 @@ This is a class to learn basic japanese calligraphy.
 *Class1  Tusesday  2:50-4:20 (Brush 60min + Pencil 30 min )(90 minutes)*  
 *Class2  Tusesday  4:30-6:00 (Brush 60min + Pencil 30 min )(90 minutes)*  
 *Class3  Thursday  2:50-4:20 (Brush 60min + Pencil 30 min )(90 minutes)*  
-*Class4  Thursday  4:30-6:00 (Brush 60min + Pencil 30 min )(90 minutes)*    
+*Class4  Thursday  4:30-6:00 (Brush 60min + Pencil 30 min )(90 minutes)*  
+
 **Monthly fee**: $80 for 4 times a month and + $10(including shipping fee to Nihonbokutensha, examination fee, and textbook feeIf you join )  
 **Class size**: 6  
 **Age**: 1st to 8th grade  
