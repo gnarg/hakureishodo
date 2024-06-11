@@ -49,9 +49,9 @@ This is a class to learn basic japanese calligraphy.
 
 *Class2  Tusesday  4:30-6:00 (Brush 60min + Pencil 30 min )(90 minutes)*  
 
-*Class3  Thursday  2:50-4:20 (Brush 60min + Pencil 30 min )(90 minutes)Start from Sep*  
+*Class3  Thursday  2:50-4:20 (Brush 60min + Pencil 30 min )(90 minutes)　Start from Sep*  
 
-*Class4  Thursday  4:30-6:00 (Brush 60min + Pencil 30 min )(90 minutes)Start from Sep*  
+*Class4  Thursday  4:30-6:00 (Brush 60min + Pencil 30 min )(90 minutes)　Start from Sep*  
 
 **Monthly fee**: $80 for 4 times a month + and $10(including shipping fee to Japan and textbook fee if you join )  
 **Class size**: 6 people per class  
