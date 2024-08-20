@@ -1,131 +1,41 @@
 <script>
-// @ts-nocheck
-
-  import { I18n } from 'i18n-js';
+  // @ts-nocheck
   import { marked } from 'marked';
   import { Images } from "svelte-images";
-  // import { page } from '$app/stores';
+  import images from '$lib/images.json';
+  import { _, locale } from 'svelte-i18n';
 
-  export let data;
-
-  let i18n = new I18n(data.translations);
-
-  const urlParams = new URLSearchParams(window.location.search);
-  let lang = (urlParams.has('lang')) ? urlParams.get('lang') : 'en';
-  // let lang = $page.url.searchParams.get("lang")
-  // $: { lang };
-  i18n.locale = lang || 'en';
-
-  let p = (key) => marked.parse(i18n.t(key));
-
-  let handleImage = (e) => {
-    console.log(e);
-  }
-
-  const images = [
-    { 
-      src: '/images/IMG_7932.jpeg',
-      thumbnail: '/images/thumb-IMG_7932.jpeg',
-    },
-    {
-      src: '/images/IMG_7933.png',
-      thumbnail: '/images/thumb-IMG_7933.png',
-    },
-    {
-      src: '/images/IMG_7935.png',
-      thumbnail: '/images/thumb-IMG_7935.png',
-    },
-    { 
-      src: '/images/IMG_0572.jpeg',
-      thumbnail: '/images/thumb-IMG_0572.jpeg',
-    },
-    { 
-      src: '/images/fans.jpg',
-      thumbnail: '/images/thumb-fans.jpg',
-    },
-    { 
-      src: '/images/IMG_1289.jpeg',
-      thumbnail: '/images/thumb-IMG_1289.jpeg',
-    },
-    { 
-      src: '/images/IMG_8700.jpeg',
-      thumbnail: '/images/thumb-IMG_8700.jpeg',
-    },
-    { 
-      src: '/images/IMG_8701.png',
-      thumbnail: '/images/thumb-IMG_8701.png',
-    },
-    { 
-      src: '/images/IMG_8702.png',
-      thumbnail: '/images/thumb-IMG_8702.png',
-    },
-    { 
-      src: '/images/IMG_1150.jpeg',
-      thumbnail: '/images/thumb-IMG_1150.jpeg',
-    },
-    { 
-      src: '/images/IMG_1155.jpeg',
-      thumbnail: '/images/thumb-IMG_1155.jpeg',
-    },
-    { 
-      src: '/images/IMG_5902.jpeg',
-      thumbnail: '/images/thumb-IMG_5902.jpeg',
-    },
-    { 
-      src: '/images/new-IMG_1707.JPG',
-      thumbnail: '/images/thumb-new-IMG_1707.JPG',
-    },
-    { 
-      src: '/images/new-IMG_1602.JPG',
-      thumbnail: '/images/thumb-new-IMG_1602.JPG',
-    },
-    { 
-      src: '/images/new-IMG_1479.JPG',
-      thumbnail: '/images/thumb-new-IMG_1479.JPG',
-    },
-    { 
-      src: '/images/new-IMG_9988.JPG',
-      thumbnail: '/images/thumb-new-IMG_9988.JPG',
-    },
-    { 
-      src: '/images/new-IMG_1370.JPG',
-      thumbnail: '/images/thumb-new-IMG_1370.JPG',
-    },
-    { 
-      src: '/images/new-IMG_9311.JPG',
-      thumbnail: '/images/thumb-new-IMG_9311.JPG',
-    },
-  ];
+  let p = (key) => marked.parse($_(key));
 </script>
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-          <nav id="site-nav" class="greedy-nav">
-              <a class="site-logo" data-sveltekit-reload href="/"><img src="/images/stamp.png" alt="Hakurei Shodo"></a>
-              <!-- <a class="site-title" href="/">
-                   Hakurei Shodo
-                   <span class="site-subtitle">Japanese Caligraphy</span>
-              </a> -->
-              <ul class="visible-links">
-                <li class="masthead__menu-item">
-                  <a href="#class-information">Classes</a>
-                </li>
-                <li class="masthead__menu-item">
-                  <a href="#gallery">Gallery</a>
-                </li>
-                <li class="masthead__menu-item">
-                  <a data-sveltekit-reload href="/?lang=ja">日本語</a>
-                </li>
-                <li class="masthead__menu-item">
-                  <a data-sveltekit-reload href="/?lang=en">English</a>
-                </li>
-              </ul>
-              <button class="greedy-nav__toggle hidden" type="button">
-                <span class="visually-hidden">Toggle menu</span>
-                <div class="navicon"></div>
-              </button>
-          </nav>
+      <nav id="site-nav" class="greedy-nav">
+          <a class="site-logo" data-sveltekit-reload href="/"><img src="/images/stamp.png" alt="Hakurei Shodo"></a>
+          <!-- <a class="site-title" href="/">
+                Hakurei Shodo
+                <span class="site-subtitle">Japanese Caligraphy</span>
+          </a> -->
+          <ul class="visible-links">
+            <li class="masthead__menu-item">
+              <a href="#class-information">Classes</a>
+            </li>
+            <li class="masthead__menu-item">
+              <a href="#gallery">Gallery</a>
+            </li>
+            <li class="masthead__menu-item">
+              <a href="/?lang=ja" data-sveltekit-reload>日本語</a>
+            </li>
+            <li class="masthead__menu-item">
+              <a href="/?lang=en" data-sveltekit-reload>English</a>
+            </li>
+          </ul>
+          <button class="greedy-nav__toggle hidden" type="button">
+            <span class="visually-hidden">Toggle menu</span>
+            <div class="navicon"></div>
+          </button>
+      </nav>
     </div>
   </div>
 </div>

@@ -1,6 +1,6 @@
 import { Api } from 'nocodb-sdk';
 
-let getContents = async () => {
+let getContents = async (language: string) => {
   const api = new Api({
     baseURL: 'https://db.hakureishodo.art',
     headers: {
@@ -14,16 +14,17 @@ let getContents = async () => {
     "my3oab2ddiuvj0k",
     "vwpnpn45pbqxjwlx", {
       "offset": 0,
-      "where": ""
+      "where": `(Language,eq,${language})`,
   });
 }
 
-let getTranslations = async () => {
-  let contents = await getContents();
-  let translations: { [language: string]: { [name: string]: string } } = { en: {}, ja: {} };
-  contents['list'].forEach((content: any) => {
-      translations[content['Language']][content['Name']] = content['Content'];
+let getTranslations = async (language: string) => {
+  const translations: { [key: string]: string } = {};
+  const content = await getContents(language);
+  content['list'].forEach((content: any) => {
+      translations[content['Name']] = content['Content'];
   });
+
   return translations;
 }
 
