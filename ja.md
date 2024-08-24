@@ -62,7 +62,7 @@ author:
 月謝 月４回 $80 + $10（日本墨転社への送料、審査費用、教科書代含む）  
 対象学年1年生ー８年生  
 定員６人  
-講師　伊藤白嶺
+場所　1645 SE 54 Ave Portland OR 97215
 
 [{{ site.signup_icon }} **Community Class 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
 
