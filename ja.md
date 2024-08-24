@@ -36,16 +36,16 @@ author:
 ## Richmond Elementarty After School Program
 秋のセッション 2024 （9月ー12月)　　
 
-### 月曜日  2:45-4:15（毛筆90分）
 
-**新規生徒募集中**   
+# **新規生徒募集中**   
 
 [{{ site.signup_icon }} **Richmond  登録フォーム**](https://docs.google.com/forms/d/1m9Asc5tfKCkMtscqlSD7JfYN6GXaJ1crfabXgyyfQMs/edit#response=ACYDBNj_N8lUHBlhOI8-LJxs3nCb10TWffFelpTB9-3wRgWsqNxskaUNImw3aJxOKw_K8K0)  
+
+### 月曜日  2:45-4:15（毛筆90分）
 クラス日    9/16, 23, 30, 10/7, 14, 21, 28, 11/18, 12/2, 9, 16, (Total 11 times)  
 クラスフィー＄225     
 対象学年　1年生ー5年生      
     
-
 
 1. 正しい筆順でお手本通りに書くことで、バランス良くきれいに整った字が書ける
 1. ひらがな 、カタカナ、漢字などの文字や言葉を学ぶ事ができる。
@@ -54,10 +54,14 @@ author:
 などの習字を学ぶクラスです。
 
 ### South East Portland Community Class
+*火曜日　2:50-4:20(毛筆60分＋硬筆30分）*  
 *火曜日　4:30-6:00(毛筆60分＋硬筆30分）*  
+*木曜日　2:50-4:20(毛筆60分＋硬筆30分）*  
+*木曜日　4:30-6:00(毛筆60分＋硬筆30分）*  
+
 月謝 月４回 $80 + $10（日本墨転社への送料、審査費用、教科書代含む）  
 対象学年1年生ー８年生  
-定員10人  
+定員６人  
 講師　伊藤白嶺
 
 [{{ site.signup_icon }} **Community Class 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
