@@ -47,7 +47,7 @@ This is a class to learn basic japanese calligraphy.
 ## South East Portland Community Class  
 
 * Class1 Tusesday 2:50-4:20 (90 minutes)*  
-* Class2 Tusesday 4:30-6:00 (90 minutes)*  
+* Class2 Tusesday 4:30-6:00 (90 minutes)* Full    
 * Class3 Thursday 2:50-4:20 (90 minutes)*  
 * Class4 Thursday 4:30-6:00 (90 minutes)*  
 
