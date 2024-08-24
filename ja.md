@@ -34,17 +34,17 @@ author:
 # Class Information
 
 ## Richmond Elementarty After School Program
-冬のセッション 2024 （1月ー3月)　　
+秋のセッション 2024 （9月ー12月)　　
 
-### 月曜日  2:30-4:00（毛筆90分）
+### 月曜日  2:45-4:15（毛筆90分）
 
-**冬のセッションの募集は12/8から始まります**   
+**新規生徒募集中**   
 
-[{{ site.signup_icon }} **Richmond Wait list 登録フォーム**](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
-クラス日   1/8, 22, 2/5, 2/19, 26, 3/4, 11, 18 (8 times) No class 2/12   
-クラスフィー＄160   
+[{{ site.signup_icon }} **Richmond  登録フォーム**](https://docs.google.com/forms/d/1m9Asc5tfKCkMtscqlSD7JfYN6GXaJ1crfabXgyyfQMs/edit#response=ACYDBNj_N8lUHBlhOI8-LJxs3nCb10TWffFelpTB9-3wRgWsqNxskaUNImw3aJxOKw_K8K0)  
+クラス日    9/16, 23, 30, 10/7, 14, 21, 28, 11/18, 12/2, 9, 16, (Total 11 times)  
+クラスフィー＄225     
 対象学年　1年生ー5年生      
-定員24人     
+    
 
 
 1. 正しい筆順でお手本通りに書くことで、バランス良くきれいに整った字が書ける
