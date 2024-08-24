@@ -53,7 +53,7 @@ author:
 1. 基本的な筆使いを学ぶことができる。
 などの習字を学ぶクラスです。
 
-### South East Portland Community Class
+## South East Portland Community Class
 *クラス1 火曜日　2:50-4:20(毛筆60分＋硬筆30分）*  
 *クラス2 火曜日　4:30-6:00(毛筆60分＋硬筆30分）*  
 *クラス3 木曜日　2:50-4:20(毛筆60分＋硬筆30分）*  
