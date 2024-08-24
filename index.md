@@ -44,7 +44,7 @@ This is a class to learn basic japanese calligraphy.
 1. You can learn letters and words such as hiragana, katakana, and kanji.
 1. Improve your posture when writing and improve your concentration.
 
-### South East Portland Community Class
+## South East Portland Community Class
 * Class1 Tusesday 2:50-4:20 (90 minutes)*  
 * Class2 Tusesday 4:30-6:00 (90 minutes)* 
 * Class3 Thursday 2:50-4:20 (90 minutes)* 
