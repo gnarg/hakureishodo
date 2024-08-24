@@ -25,16 +25,16 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 # Class Information
 
 ## Richmond Elementarty After School Program
-*Winter term (January-March) 2024*  
+*Fall term (September - December) 2024*  
 
-### Monday 2:30-4:00 (Brush class only 90 minutes) 
-**winter term registration will open 12/8**  　Please sign up for the Wait list [{{ site.signup_icon }} Waiting list form](https://docs.google.com/forms/d/e/1FAIpQLSd6uHH5J-kEzRoHWe0KcOFTBPsBIM9gzE2iLNZVF2Qv8c4ilw/viewform?usp=sf_link)  
+### Monday 2:45-4:15 (Brush class only 90 minutes) 
+**Fall term registration is now open **  　Please sign up for the registration form [{{ site.signup_icon }} Waiting list form](https://docs.google.com/forms/d/1m9Asc5tfKCkMtscqlSD7JfYN6GXaJ1crfabXgyyfQMs/edit#response=ACYDBNj_N8lUHBlhOI8-LJxs3nCb10TWffFelpTB9-3wRgWsqNxskaUNImw3aJxOKw_K8K0)  
   
-**Dates**:  1/8, 22, 2/5, 2/19, 26, 3/4, 11, 18 (8 times) No class 2/12
+**Dates**:   9/16, 23, 30, 10/7, 14, 21, 28, 11/18, 12/2, 9, 16, (Total 11 times)  
 **Location**: Richmond Elementary  
-**Class fee**: $160  
+**Class fee**: $225  
 **Student age**: 1st to 5th grade  
-**Class size**: 24  
+ 
 
 
 This is a class to learn basic japanese calligraphy.
@@ -44,7 +44,10 @@ This is a class to learn basic japanese calligraphy.
 1. Improve your posture when writing and improve your concentration.
 
 ### South East Portland Community Class
-*Tusesday 4:30-6:00 (90 minutes)*  
+* Class1 Tusesday 2:50-4:20 (90 minutes)*  
+* Class2 Tusesday 4:30-6:00 (90 minutes)* 
+* Class3 Thursday 2:50-4:20 (90 minutes)* 
+* Class4 Thursday 4:30-6:00 (90 minutes)*  
 **Monthly fee**: $90 for 4 times a month (including shipping fee to Nihonbokutensha, examination fee, and textbook fee)  
 **Class size**: 10  
 **Instructor**: Hakurei Ito
