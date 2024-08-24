@@ -50,7 +50,7 @@ This is a class to learn basic japanese calligraphy.
 * Class4 Thursday 4:30-6:00 (90 minutes)*  
 
 **Monthly fee**: $90 for 4 times a month (including shipping fee to Nihonbokutensha, examination fee, and textbook fee)  
-**Class size**: 10  
+**Class size**: 6  
 **Instructor**: Hakurei Ito
 
 [{{ site.signup_icon }} **Community Class sign up form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
