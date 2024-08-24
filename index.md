@@ -64,8 +64,7 @@ This is a class to further sudy japanese calligraphy.
 1. Each month, excellent work will be photographed and published in the next month’s textbook.
 
 ### What to bring
-You may bring your own calligraphy tools if you have them, otherwise they will be available for purchase in the classroom. Please contact us if you would like a set of tools.
-
+If you have calligraphy tools, please bring them. If you do not have it, you can purchase it at our class, Please contact us if you would like a tool set.
 Japanese calligraphy tools
 * Ink
 * Suzuri (ink stone)
