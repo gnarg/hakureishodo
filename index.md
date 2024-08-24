@@ -44,7 +44,8 @@ This is a class to learn basic japanese calligraphy.
 1. You can learn letters and words such as hiragana, katakana, and kanji.
 1. Improve your posture when writing and improve your concentration.
 
-## South East Portland Community Class
+## South East Portland Community Class  
+
 * Class1 Tusesday 2:50-4:20 (90 minutes)*  
 * Class2 Tusesday 4:30-6:00 (90 minutes)* 
 * Class3 Thursday 2:50-4:20 (90 minutes)* 
@@ -52,7 +53,7 @@ This is a class to learn basic japanese calligraphy.
 
 **Monthly fee**: $80 for 4 times a month +$10 If you join Bokutensha(including shipping fee to Nihonbokutensha, examination fee, and textbook fee)  
 **Class size**: 6  
-**Instructor**: Hakurei Ito
+**location**: 1645 SE 54 Ave Portland OR97215
 
 [{{ site.signup_icon }} **Community Class sign up form**](https://docs.google.com/forms/d/e/1FAIpQLScurAdwcBXua-8XVPtv0IQVKDor9nW6C7T8IkEdIVvplwct5w/viewform?usp=sf_link)
 
