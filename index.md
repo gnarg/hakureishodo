@@ -28,7 +28,7 @@ Shodo is the art of writing Japanese characters on paper using a brush, ink, and
 *Fall term (September - December )*  
 
 # **Fall term registration is now open **  　
-Please sign up for the registration form [{{ site.signup_icon }} Waiting list form](https://docs.google.com/forms/d/1m9Asc5tfKCkMtscqlSD7JfYN6GXaJ1crfabXgyyfQMs/edit#response=ACYDBNj_N8lUHBlhOI8-LJxs3nCb10TWffFelpTB9-3wRgWsqNxskaUNImw3aJxOKw_K8K0)  
+Please sign up for the registration form [{{ site.signup_icon }} registration form](https://docs.google.com/forms/d/1m9Asc5tfKCkMtscqlSD7JfYN6GXaJ1crfabXgyyfQMs/edit#response=ACYDBNj_N8lUHBlhOI8-LJxs3nCb10TWffFelpTB9-3wRgWsqNxskaUNImw3aJxOKw_K8K0)  
 
 ### Monday 2:45-4:15 (Brush class only 90 minutes)   
 **Dates**:   9/16, 23, 30, 10/7, 14, 21, 28, 11/18, 12/2, 9, 16, (Total 11 times)  
