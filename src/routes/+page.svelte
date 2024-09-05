@@ -12,7 +12,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-          <a class="site-logo" data-sveltekit-reload href="/"><img src="/images/stamp.png" alt="Hakurei Shodo"></a>
+          <a class="site-logo" data-sveltekit-reload href="/"><img src="https://static.hakureishodo.art/images/stamp.png" alt="Hakurei Shodo"></a>
           <!-- <a class="site-title" href="/">
                 Hakurei Shodo
                 <span class="site-subtitle">Japanese Caligraphy</span>
@@ -41,7 +41,7 @@
 </div>
 
 <div class="initial-content">
-  <div class="page__hero--overlay" style=" background-image: url('/images/IMG_1150.jpeg');">
+  <div class="page__hero--overlay" style=" background-image: url('https://static.hakureishodo.art/images/IMG_1150.jpeg');">
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
           Hakurei Shodo
@@ -53,7 +53,7 @@
     <div class="sidebar sticky">
       <div itemscope itemtype="https://schema.org/Person">
         <div class="author__avatar">
-          <img src="/images/thumb-kaori-3.JPG" alt="Hakueri Ito" itemprop="image">
+          <img src="https://static.hakureishodo.art/images/thumb-kaori-3.JPG" alt="Hakueri Ito" itemprop="image">
         </div>
         <div class="author__content">
           <h3 class="author__name" itemprop="name">Hakueri Ito</h3>
