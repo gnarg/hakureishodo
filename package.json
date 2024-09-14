@@ -38,6 +38,7 @@
 		"i18n-js": "^4.4.3",
 		"marked": "^14.0.0",
 		"nocodb-sdk": "^0.255.0",
+		"pocketbase": "^0.21.5",
 		"svelte-images": "^0.0.95",
 		"svelte-simple-modal": "^1.6.2"
 	}

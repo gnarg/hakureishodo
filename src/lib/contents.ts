@@ -1,28 +1,16 @@
-import { Api } from 'nocodb-sdk';
+import PocketBase from 'pocketbase';
 
-let getContents = async (language: string) => {
-  const api = new Api({
-    baseURL: 'https://db.hakureishodo.art',
-    headers: {
-      'xc-token': 'OhdeLg0I_yrWPU5AbD7tIRzcAFIbfZygzfxZRB9B', // read-only token
-    },
-  });
+const pb = new PocketBase('https://db.guymon.family');
 
-  return api.dbViewRow.list(
-    "noco",
-    "pbe3wtvoh3ckjlt",
-    "my3oab2ddiuvj0k",
-    "vwpnpn45pbqxjwlx", {
-      "offset": 0,
-      "where": `(Language,eq,${language})`,
-  });
-}
+const getContents = async (language: string) => {
+  return await pb.collection('hakureishodo_contents').getFullList({ filter: `language = '${language}'` });
+};
 
-let getTranslations = async (language: string) => {
+const getTranslations = async (language: string) => {
   const translations: { [key: string]: string } = {};
-  const content = await getContents(language);
-  content['list'].forEach((content: any) => {
-      translations[content['Name']] = content['Content'];
+  const contents = await getContents(language);
+  contents.forEach((content: any) => {
+      translations[content['name']] = content['content'];
   });
 
   return translations;
