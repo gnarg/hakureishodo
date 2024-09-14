@@ -3,7 +3,9 @@ import PocketBase from 'pocketbase';
 const pb = new PocketBase('https://db.guymon.family');
 
 const getContents = async (language: string) => {
-  return await pb.collection('hakureishodo_contents').getFullList({ filter: `language = '${language}'` });
+  return await pb.collection('hakureishodo_contents').getFullList({
+    filter: `language = '${language}'`, requestKey: language
+  });
 };
 
 const getTranslations = async (language: string) => {
