@@ -12,7 +12,9 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-          <a class="site-logo" data-sveltekit-reload href="/"><img src="https://static.hakureishodo.art/images/stamp.png" alt="Hakurei Shodo"></a>
+          <a class="site-logo" data-sveltekit-reload href="/">
+            <img src="https://static.hakureishodo.art/images/stamp.png" alt="Hakurei Shodo">
+          </a>
           <!-- <a class="site-title" href="/">
                 Hakurei Shodo
                 <span class="site-subtitle">Japanese Caligraphy</span>
@@ -41,7 +43,7 @@
 </div>
 
 <div class="initial-content">
-  <div class="page__hero--overlay" style=" background-image: url('https://static.hakureishodo.art/images/IMG_1150.jpeg');">
+  <div class="page__hero--overlay" style=" background-image: url('https://static.hakureishodo.art/images/IMG_6320.jpeg');">
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
           Hakurei Shodo
