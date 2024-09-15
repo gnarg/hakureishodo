@@ -43,7 +43,7 @@
 </div>
 
 <div class="initial-content">
-  <div class="page__hero--overlay" style=" background-image: url('https://static.hakureishodo.art/images/IMG_6320.jpeg');">
+  <div class="page__hero--overlay" style=" background-image: url('https://static.hakureishodo.art/images/banner.png');">
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
           Hakurei Shodo
