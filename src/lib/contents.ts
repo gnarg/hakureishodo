@@ -11,7 +11,7 @@ const getContents = async (language: string) => {
 };
 
 const getGallery = async () => {
-  return await pb.collection('hakureishodo_gallery').getFullList({ order: 'order' });
+  return await pb.collection('hakureishodo_gallery').getFullList({ sort: 'order' });
 }
 
 const getTranslations = async (language: string) => {
