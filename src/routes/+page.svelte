@@ -1,11 +1,13 @@
-<script>
-  // @ts-nocheck
+<script lang='ts'>
   import { marked } from 'marked';
+  // @ts-ignore
   import { Images } from "svelte-images";
-  import images from '$lib/images.json';
-  import { _, locale } from 'svelte-i18n';
+  import { _ } from 'svelte-i18n';
 
-  let p = (key) => marked.parse($_(key));
+  export let data;
+  const images = data.images;
+
+  let p = (key: string) => marked.parse($_(key));
 </script>
 
 <div class="masthead">
@@ -15,10 +17,6 @@
           <a class="site-logo" data-sveltekit-reload href="/">
             <img src="https://static.hakureishodo.art/images/stamp.png" alt="Hakurei Shodo">
           </a>
-          <!-- <a class="site-title" href="/">
-                Hakurei Shodo
-                <span class="site-subtitle">Japanese Caligraphy</span>
-          </a> -->
           <ul class="visible-links">
             <li class="masthead__menu-item">
               <a href="#class-information">Classes</a>
