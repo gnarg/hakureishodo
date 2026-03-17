@@ -1,0 +1,61 @@
+{
+  "modelProviders": {
+    "openai": [
+      {
+        "id": "qwen35-35b",
+        "name": "Qwen3.5-35b-A3b",
+        "envKey": "HOME",
+        "baseUrl": "http://strix.kakushi.lol:8000/v1",
+        "generationConfig": {
+          "contextWindowSize": 262144,
+          "samplingParams": {
+            "temperature": 0.6
+          }
+        }
+      },
+      {
+        "id": "qwen35-122b",
+        "name": "Qwen3.5-122B-A10B",
+        "envKey": "HOME",
+        "baseUrl": "http://strix.kakushi.lol:8000/v1",
+        "generationConfig": {
+          "contextWindowSize": 65536,
+          "samplingParams": {
+            "temperature": 0.6
+          }
+        }
+      }
+    ]
+  },
+  "mcpServers": {
+    "spec-workflow": {
+      "command": "npx",
+      "args": [
+        "@pimzino/spec-workflow-mcp@latest",
+        "."
+      ]
+    },
+    "context7": {
+      "httpUrl": "https://mcp.context7.com/mcp",
+      "headers": {
+        "CONTEXT7_API_KEY": "ctx7sk-a7d8e06a-0fde-4a4d-ac35-009ccc8df67b",
+        "Accept": "application/json, text/event-stream"
+      }
+    }
+  },
+  "$version": 3,
+  "model": {
+    "name": "qwen35-122b"
+  },
+  "security": {
+    "auth": {
+      "selectedType": "openai"
+    }
+  },
+  "mcp": {
+    "excluded": [
+      "spec-workflow",
+      "context7"
+    ]
+  }
+}
