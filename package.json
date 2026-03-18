@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mariozechner/pi-coding-agent": "^0.58.4",
+    "pi-plan-mode": "^0.2.4"
+  }
+}
