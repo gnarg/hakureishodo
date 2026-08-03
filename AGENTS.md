@@ -17,7 +17,7 @@ The generated site is exported to `build/` and served statically (GitHub Pages /
 - **i18n:** `svelte-i18n` with `en` and `ja` locales, fetched from PocketBase collections
 - **Testing:** Vitest
 - **Tooling:** ESLint (flat config) + Prettier + TypeScript strict
-- **Env:** Node `v22.3.0` (`.node-version`), `engine-strict=true` in `.npmrc`, Nix flake dev shell
+- **Env:** Node `v22.9.0` (`.node-version`), `engine-strict=true` in `.npmrc`, Nix flake dev shell
 
 ## Key Files & Data Flow
 
