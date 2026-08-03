@@ -9,7 +9,7 @@ init({
 	initialLocale: getLocaleFromQueryString('lang') || 'en'
 });
 
-export async function load({ params }) {
+export async function load() {
 	locale.set(getLocaleFromQueryString('lang') || 'en');
 	await waitLocale();
 

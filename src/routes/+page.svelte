@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { marked } from 'marked';
-	// @ts-ignore
+	// @ts-expect-error - svelte-images ships no type declarations
 	import { Images } from 'svelte-images';
 	import { _ } from 'svelte-i18n';
 
@@ -63,6 +63,7 @@
 				<div class="author__content">
 					<h3 class="author__name" itemprop="name">Hakueri Ito</h3>
 					<div class="author__bio" itemprop="description">
+						<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 						{@html p('bio')}
 					</div>
 					<div class="author__urls-wrapper">
@@ -91,10 +92,14 @@
 			</div>
 		</div>
 		<div class="archive">
+			<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 			{@html p('introduction')}
 			<h1 id="class-information">Class Information</h1>
+			<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 			{@html p('richmond_class')}
+			<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 			{@html p('community_class')}
+			<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 			{@html p('what_to_bring')}
 
 			<h1 id="gallery">Gallery</h1>
