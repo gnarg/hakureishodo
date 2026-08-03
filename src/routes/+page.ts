@@ -5,15 +5,15 @@ register('en', () => getTranslations('en'));
 register('ja', () => getTranslations('ja'));
 
 init({
-  fallbackLocale: 'en',
-  initialLocale: getLocaleFromQueryString('lang') || 'en',
+	fallbackLocale: 'en',
+	initialLocale: getLocaleFromQueryString('lang') || 'en'
 });
 
 export async function load({ params }) {
-  locale.set(getLocaleFromQueryString('lang') || 'en');
-  await waitLocale();
+	locale.set(getLocaleFromQueryString('lang') || 'en');
+	await waitLocale();
 
-  return { images: await getImages() };
+	return { images: await getImages() };
 }
 
 export const ssr = false;
