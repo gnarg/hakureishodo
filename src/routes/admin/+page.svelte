@@ -300,4 +300,7 @@
 		border: 1px solid #ddd;
 		border-radius: 6px;
 	}
+	.quill-wrap :global(.ql-container) {
+		font-size: 16px;
+	}
 </style>
