@@ -28,6 +28,9 @@ export default [
 		}
 	},
 	{
-		ignores: ['build/', '.svelte-kit/', 'dist/']
+		// Vendored third-party assets (served verbatim, not authored in this repo) are excluded
+		// from linting. newrelic.js is the New Relic browser agent; main.min.js is the bundled
+		// Minimal Mistakes theme JS (both under static/js/).
+		ignores: ['build/', '.svelte-kit/', 'dist/', 'static/js/main.min.js', 'static/js/newrelic.js']
 	}
 ];
