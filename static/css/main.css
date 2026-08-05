@@ -643,19 +643,60 @@ section {
 	margin: 0 0 2.4rem;
 	font-size: 0.85rem;
 }
-.class-grid {
+/* sub-navigation: jump to a specific class invitation */
+.class-nav {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.6rem;
+	justify-content: center;
+	margin: 1.1rem 0 2.8rem;
+}
+.class-nav a {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.6rem;
+	padding: 0.55rem 1.15rem;
+	border: 1px solid var(--line);
+	border-radius: 999px;
+	background: var(--paper-2);
+	text-decoration: none;
+	color: var(--ink);
+	font-size: 0.88rem;
+	letter-spacing: 0.06em;
+	transition:
+		background 0.3s var(--ease-out),
+		color 0.3s var(--ease-out);
+}
+.class-nav a b {
+	font-family: var(--font-display);
+	font-weight: 600;
+	color: var(--akane-deep);
+	font-size: 1.05rem;
+	line-height: 1;
+}
+.class-nav a:hover {
+	background: var(--ink);
+	color: var(--paper);
+}
+.class-nav a:hover b {
+	color: var(--paper);
+}
+
+/* full-width invitation scrolls, stacked */
+.class-stack {
 	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	gap: clamp(1.2rem, 3vw, 2.6rem);
+	gap: clamp(1.6rem, 3.5vw, 2.8rem);
 }
 
 .ticket {
 	position: relative;
 	background: var(--paper);
 	border: 1px solid var(--line);
-	padding: 1.8rem 1.6rem 2.2rem;
-	display: flex;
-	flex-direction: column;
+	padding: 2.2rem 2rem 2.6rem;
+	display: grid;
+	grid-template-columns: minmax(150px, 230px) 1fr;
+	gap: 1.6rem;
+	align-items: start;
 	box-shadow: 8px 10px 0 color-mix(in srgb, var(--ink) 5%, transparent);
 	transition:
 		transform 0.45s var(--ease-brush),
@@ -710,25 +751,26 @@ section {
 	box-shadow: 14px 18px 0 color-mix(in srgb, var(--ink) 7%, transparent);
 }
 
+.ticket__head {
+	position: sticky;
+	top: 6rem;
+	border-right: 1px dashed var(--line);
+	padding-right: 1.6rem;
+}
 .ticket__num {
 	font-family: var(--font-display);
-	font-size: 2.6rem;
+	font-size: 2.4rem;
 	line-height: 1;
 	color: var(--akane-deep);
-	margin: 0 0 0.25rem;
+	margin: 0 0 0.35rem;
 }
 .ticket__sub {
 	font-family: var(--font-body);
-	font-size: 0.66rem;
-	letter-spacing: 0.42em;
+	font-size: 0.7rem;
+	letter-spacing: 0.4em;
 	text-transform: uppercase;
 	color: var(--ink-faint);
-	margin: 0 0 1rem;
-	border-bottom: 1px dashed var(--line);
-	padding-bottom: 0.9rem;
-}
-.ticket__body {
-	flex: 1;
+	margin: 0;
 }
 .ticket__body :last-child {
 	margin-bottom: 0;
@@ -877,15 +919,23 @@ section {
 	.intro__grid {
 		grid-template-columns: 1fr;
 	}
-	.class-grid {
-		grid-template-columns: repeat(2, 1fr);
+}
+
+@media (max-width: 700px) {
+	.ticket {
+		grid-template-columns: 1fr;
+		gap: 1rem;
+		padding: 1.8rem 1.6rem 2.2rem;
+	}
+	.ticket__head {
+		position: static;
+		border-right: none;
+		border-bottom: 1px dashed var(--line);
+		padding: 0 0 0.9rem;
 	}
 }
 
 @media (max-width: 620px) {
-	.class-grid {
-		grid-template-columns: 1fr;
-	}
 	.hero__inner {
 		padding: 2rem 0 4rem;
 	}

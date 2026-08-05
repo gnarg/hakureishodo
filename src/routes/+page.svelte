@@ -123,12 +123,20 @@
 
 			<p class="classes__note js-reveal">— 入門をお待ちしております —</p>
 
-			<div class="class-grid">
-				<article class="ticket js-reveal">
+			<nav class="class-nav js-reveal" aria-label="Jump to a class">
+				<a href="#class-richmond"><b>一</b><span>Richmond</span></a>
+				<a href="#class-community"><b>二</b><span>Community</span></a>
+				<a href="#class-what-to-bring"><b>三</b><span>What to&nbsp;Bring</span></a>
+			</nav>
+
+			<div class="class-stack">
+				<article class="ticket js-reveal" id="class-richmond">
 					<span class="ticket__edge l" aria-hidden="true"></span>
 					<span class="ticket__edge r" aria-hidden="true"></span>
-					<p class="ticket__num">一</p>
-					<p class="ticket__sub">Richmond Class</p>
+					<div class="ticket__head">
+						<p class="ticket__num">一</p>
+						<p class="ticket__sub">Richmond Class</p>
+					</div>
 					<div class="ticket__body">
 						<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 						{@html p('richmond_class')}
@@ -136,11 +144,13 @@
 					<span class="ticket__seal">学</span>
 				</article>
 
-				<article class="ticket js-reveal" data-delay="1">
+				<article class="ticket js-reveal" id="class-community">
 					<span class="ticket__edge l" aria-hidden="true"></span>
 					<span class="ticket__edge r" aria-hidden="true"></span>
-					<p class="ticket__num">二</p>
-					<p class="ticket__sub">Community Class</p>
+					<div class="ticket__head">
+						<p class="ticket__num">二</p>
+						<p class="ticket__sub">Community Class</p>
+					</div>
 					<div class="ticket__body">
 						<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 						{@html p('community_class')}
@@ -148,11 +158,13 @@
 					<span class="ticket__seal">集</span>
 				</article>
 
-				<article class="ticket js-reveal" data-delay="2">
+				<article class="ticket js-reveal" id="class-what-to-bring">
 					<span class="ticket__edge l" aria-hidden="true"></span>
 					<span class="ticket__edge r" aria-hidden="true"></span>
-					<p class="ticket__num">三</p>
-					<p class="ticket__sub">What to Bring</p>
+					<div class="ticket__head">
+						<p class="ticket__num">三</p>
+						<p class="ticket__sub">What to Bring</p>
+					</div>
 					<div class="ticket__body">
 						<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 						{@html p('what_to_bring')}
