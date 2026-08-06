@@ -764,35 +764,34 @@ section {
 /* ==========================================================================
    Gallery
    ========================================================================== */
-/* svelte-images renders `.svelte-images-gallery` with inline `max-width` on its `img`,
-	so we override with `!important` and give each piece a washi mat board. */
-.gallery__frame {
-	--gutter: 5;
-}
+/* svelte-images renders `.svelte-images-gallery` and opens a lightbox with the
+	full-resolution `src` on click. We render a compact thumbnail grid so the low-res
+	thumbs stay small, and the modal shows the full image. */
 .gallery__frame .svelte-images-gallery {
+	--gutter: 5;
 	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
-	gap: 16px;
+	grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+	gap: 12px;
 }
 .gallery__frame .svelte-images-gallery img {
 	width: 100% !important;
-	min-width: 100% !important;
 	max-width: 100% !important;
 	margin: 0 !important;
-	/* mat board: inset paper frame + hanging signature room */
-	padding: 12px 14px 34px;
+	height: 130px !important;
+	object-fit: cover !important;
+	/* thin washi mat */
+	padding: 6px;
 	background: var(--paper-2);
 	border: 1px solid var(--line);
-	box-shadow:
-		0 4px 14px rgba(0, 0, 0, 0.07),
-		inset 0 0 0 2px transparent;
+	box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+	cursor: zoom-in;
 	transition:
-		transform 0.5s var(--ease-out),
-		box-shadow 0.5s var(--ease-out);
+		transform 0.4s var(--ease-out),
+		box-shadow 0.4s var(--ease-out);
 }
 .gallery__frame .svelte-images-gallery img:hover {
-	transform: translateY(-7px);
-	box-shadow: 0 18px 30px rgba(0, 0, 0, 0.16);
+	transform: translateY(-4px) scale(1.03);
+	box-shadow: 0 12px 22px rgba(0, 0, 0, 0.14);
 	opacity: 1 !important;
 	filter: none;
 }
@@ -875,7 +874,10 @@ section {
 		letter-spacing: 0.08em;
 	}
 	.gallery__frame .svelte-images-gallery {
-		grid-template-columns: repeat(2, 1fr);
+		grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+	}
+	.gallery__frame .svelte-images-gallery img {
+		height: 110px !important;
 	}
 }
 
