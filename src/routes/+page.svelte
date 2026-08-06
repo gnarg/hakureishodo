@@ -8,26 +8,6 @@
 	const images = data.images;
 
 	let p = (key: string) => marked.parse($_(key));
-
-	function reveal(el: Element) {
-		const io = new IntersectionObserver(
-			(entries) => {
-				entries.forEach((entry) => {
-					if (entry.isIntersecting) {
-						entry.target.classList.add('in');
-						io.unobserve(entry.target);
-					}
-				});
-			},
-			{ threshold: 0.12 }
-		);
-		el.querySelectorAll('.js-reveal').forEach((node) => io.observe(node));
-		return {
-			destroy() {
-				io.disconnect();
-			}
-		};
-	}
 </script>
 
 <svelte:window />
@@ -64,7 +44,7 @@
 	</div>
 </header>
 
-<main use:reveal>
+<main>
 	<!-- ==================== INTRO / TEACHER ==================== -->
 	<section class="block" aria-labelledby="intro-title">
 		<div class="wrap">
@@ -74,7 +54,7 @@
 				<hr class="block__rule" />
 			</div>
 
-			<div class="intro__grid js-reveal">
+			<div class="intro__grid">
 				<div class="prose">
 					<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 					{@html p('introduction')}
@@ -113,7 +93,7 @@
 	<!-- ==================== CLASSES ==================== -->
 	<section class="block classes" id="class-information" aria-labelledby="classes-title">
 		<div class="wrap classes__inner">
-			<div class="block__head js-reveal">
+			<div class="block__head">
 				<span class="block__num">授業</span>
 				<h2 class="block__title" id="classes-title">
 					Class Information<small>The invitation · 稽古のご案内</small>
@@ -121,16 +101,16 @@
 				<hr class="block__rule" />
 			</div>
 
-			<p class="classes__note js-reveal">— 入門をお待ちしております —</p>
+			<p class="classes__note">— 入門をお待ちしております —</p>
 
-			<nav class="class-nav js-reveal" aria-label="Jump to a class">
+			<nav class="class-nav" aria-label="Jump to a class">
 				<a href="#class-richmond"><b>一</b><span>Richmond</span></a>
 				<a href="#class-community"><b>二</b><span>Community</span></a>
 				<a href="#class-what-to-bring"><b>三</b><span>What to&nbsp;Bring</span></a>
 			</nav>
 
 			<div class="class-stack">
-				<article class="ticket js-reveal" id="class-richmond">
+				<article class="ticket" id="class-richmond">
 					<span class="ticket__edge l" aria-hidden="true"></span>
 					<span class="ticket__edge r" aria-hidden="true"></span>
 					<div class="ticket__head">
@@ -144,7 +124,7 @@
 					<span class="ticket__seal">学</span>
 				</article>
 
-				<article class="ticket js-reveal" id="class-community">
+				<article class="ticket" id="class-community">
 					<span class="ticket__edge l" aria-hidden="true"></span>
 					<span class="ticket__edge r" aria-hidden="true"></span>
 					<div class="ticket__head">
@@ -158,7 +138,7 @@
 					<span class="ticket__seal">集</span>
 				</article>
 
-				<article class="ticket js-reveal" id="class-what-to-bring">
+				<article class="ticket" id="class-what-to-bring">
 					<span class="ticket__edge l" aria-hidden="true"></span>
 					<span class="ticket__edge r" aria-hidden="true"></span>
 					<div class="ticket__head">
@@ -173,7 +153,7 @@
 				</article>
 			</div>
 
-			<div class="classes__cta js-reveal">
+			<div class="classes__cta">
 				<a class="mail" href="mailto:hakurei.shodo@gmail.com">Ask about a seat →</a>
 			</div>
 		</div>
@@ -182,13 +162,13 @@
 	<!-- ==================== GALLERY ==================== -->
 	<section class="block gallery" id="gallery" aria-labelledby="gallery-title">
 		<div class="wrap">
-			<div class="block__head js-reveal">
+			<div class="block__head">
 				<span class="block__num">作</span>
 				<h2 class="block__title" id="gallery-title">Gallery<small>The work · 作品</small></h2>
 				<hr class="block__rule" />
 			</div>
 
-			<div class="gallery__frame js-reveal">
+			<div class="gallery__frame">
 				<Images {images} gutter={5} />
 			</div>
 		</div>

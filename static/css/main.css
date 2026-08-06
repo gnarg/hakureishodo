@@ -22,7 +22,7 @@
 	--font-display: 'Shippori Mincho', 'Hiragino Mincho ProN', 'Yu Mincho', Georgia, serif;
 	--font-body: 'Zen Kaku Gothic New', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', system-ui,
 		sans-serif;
-	--font-brush: 'Zen Kurenaido', var(--font-display);
+	--font-brush: var(--font-display); /* brush accents reuse the display mincho */
 
 	--serif: var(--font-display);
 
@@ -114,36 +114,10 @@ section {
 	white-space: nowrap;
 }
 
-/* ---------- scroll reveal ---------- */
-.js-reveal {
-	opacity: 0;
-	transform: translateY(26px);
-	transition:
-		opacity 0.9s var(--ease-out),
-		transform 0.9s var(--ease-out);
-}
-.js-reveal.in {
-	opacity: 1;
-	transform: none;
-}
-.js-reveal[data-delay='1'] {
-	transition-delay: 0.15s;
-}
-.js-reveal[data-delay='2'] {
-	transition-delay: 0.3s;
-}
-.js-reveal[data-delay='3'] {
-	transition-delay: 0.45s;
-}
-
+/* all content renders immediately — no JS scroll-reveal */
 @media (prefers-reduced-motion: reduce) {
 	html {
 		scroll-behavior: auto;
-	}
-	.js-reveal {
-		opacity: 1;
-		transform: none;
-		transition: none;
 	}
 }
 
@@ -311,20 +285,6 @@ section {
 	color: var(--ink);
 	margin: 0;
 	text-shadow: 0 2px 0 rgba(0, 0, 0, 0.04);
-	animation: brushIn 1.5s var(--ease-brush) both;
-}
-@keyframes brushIn {
-	from {
-		clip-path: inset(0 100% 0 0);
-		opacity: 0;
-	}
-	60% {
-		clip-path: inset(0 0 0 0);
-	}
-	to {
-		clip-path: inset(0 0 0 0);
-		opacity: 1;
-	}
 }
 
 .hero__overline {
@@ -333,7 +293,6 @@ section {
 	letter-spacing: 0.55em;
 	text-transform: uppercase;
 	color: var(--kuma);
-	animation: rise 1s var(--ease-out) 0.3s both;
 }
 .hero__title {
 	font-family: var(--font-display);
@@ -343,7 +302,6 @@ section {
 	line-height: 1.15;
 	color: var(--ink);
 	margin: 0;
-	animation: rise 1s var(--ease-out) 0.45s both;
 }
 .hero__sub {
 	font-weight: 400;
@@ -351,7 +309,6 @@ section {
 	max-width: 34rem;
 	margin: 1.8rem auto 0;
 	font-size: clamp(0.95rem, 1.5vw, 1.08rem);
-	animation: rise 1s var(--ease-out) 0.6s both;
 }
 
 .hero__scroll {
@@ -364,7 +321,6 @@ section {
 	text-transform: uppercase;
 	color: var(--kuma);
 	text-decoration: none;
-	animation: rise 1s var(--ease-out) 0.8s both;
 }
 .hero__scroll::after {
 	content: '';
@@ -373,34 +329,6 @@ section {
 	height: 3.2rem;
 	margin: 0.7rem auto 0;
 	background: linear-gradient(to bottom, var(--ink), transparent);
-	animation: drip 2.4s var(--ease-out) infinite;
-}
-@keyframes drip {
-	0% {
-		transform: scaleY(0);
-		transform-origin: top;
-		opacity: 0;
-	}
-	50% {
-		transform: scaleY(1);
-		transform-origin: top;
-		opacity: 1;
-	}
-	100% {
-		transform: scaleY(0.4);
-		opacity: 0;
-	}
-}
-
-@keyframes rise {
-	from {
-		opacity: 0;
-		transform: translateY(22px);
-	}
-	to {
-		opacity: 1;
-		transform: none;
-	}
 }
 
 /* ==========================================================================
