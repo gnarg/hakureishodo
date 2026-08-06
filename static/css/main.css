@@ -767,10 +767,12 @@ section {
 /* svelte-images renders `.svelte-images-gallery` and opens a lightbox with the
 	full-resolution `src` on click. We render a compact thumbnail grid so the low-res
 	thumbs stay small, and the modal shows the full image. */
+/* Force a real grid: svelte-images injects its own `display: flex` at runtime
+	(equal specificity, loaded after this stylesheet), so `!important` is required. */
 .gallery__frame .svelte-images-gallery {
 	--gutter: 5;
-	display: grid;
-	grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+	display: grid !important;
+	grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)) !important;
 	gap: 12px;
 }
 .gallery__frame .svelte-images-gallery img {
@@ -874,7 +876,7 @@ section {
 		letter-spacing: 0.08em;
 	}
 	.gallery__frame .svelte-images-gallery {
-		grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+		grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)) !important;
 	}
 	.gallery__frame .svelte-images-gallery img {
 		height: 110px !important;
