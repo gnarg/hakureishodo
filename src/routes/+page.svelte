@@ -15,7 +15,7 @@
 <!-- ==================== TOPBAR ==================== -->
 <nav class="topbar" aria-label="Site">
 	<div class="wrap topbar__inner">
-		<a class="topbar__brand" data-sveltekit-reload href="/">
+		<a class="topbar__brand" data-sveltekit-reload href="/" style="text-decoration: none">
 			<img src="https://static.hakureishodo.art/images/stamp.png" alt="Hakurei Shodō" />
 			<span class="word">Hakurei Shodō<small>書道</small></span>
 		</a>
@@ -40,7 +40,7 @@
 		<p class="hero__sub">
 			Hand-lettered ink &amp; paper. Begin the way of the brush — one stroke at a time.
 		</p>
-		<a class="hero__scroll" href="#class-information">Scroll</a>
+		<a class="hero__scroll" href="#class-information">Classes</a>
 	</div>
 </header>
 
