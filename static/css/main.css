@@ -230,6 +230,33 @@ section {
 	color: var(--paper);
 }
 
+/* compact language dropdown — shown only when the screen is too narrow */
+.lang-select {
+	display: none;
+	appearance: none;
+	-webkit-appearance: none;
+	border: 1px solid var(--line);
+	border-radius: 999px;
+	background: var(--paper-2)
+		url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='9' height='6'%3E%3Cpath d='M0 0l4.5 5 4.5-5z' fill='%234a4238'/%3E%3C/svg%3E")
+		no-repeat right 0.7rem center / 0.55rem auto;
+	padding: 0.45rem 1.9rem 0.45rem 0.95rem;
+	font-size: 0.82rem;
+	font-family: var(--font-body);
+	color: var(--ink);
+	letter-spacing: 0.04em;
+	cursor: pointer;
+}
+
+@media (max-width: 640px) {
+	.lang {
+		display: none;
+	}
+	.lang-select {
+		display: inline-block;
+	}
+}
+
 /* ==========================================================================
    Hero — brush & banner
    ========================================================================== */

@@ -8,6 +8,11 @@
 	const images = data.images;
 
 	let p = (key: string) => marked.parse($_(key));
+
+	function selectLang(e: Event) {
+		const value = (e.currentTarget as HTMLSelectElement).value;
+		window.location.assign(`/?lang=${value}`);
+	}
 </script>
 
 <svelte:window />
@@ -26,6 +31,10 @@
 				<a href="/?lang=ja" data-sveltekit-reload data-active={$locale === 'ja'}>日本語</a>
 				<a href="/?lang=en" data-sveltekit-reload data-active={$locale === 'en'}>EN</a>
 			</div>
+			<select class="lang-select" aria-label="Language" on:change={selectLang}>
+				<option value="ja" selected={$locale === 'ja'}>日本語</option>
+				<option value="en" selected={$locale === 'en'}>English</option>
+			</select>
 		</div>
 	</div>
 </nav>
