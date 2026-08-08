@@ -2,12 +2,18 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>Hakurei Shodo</title>
+		<title>Hakurei Shodō — Japanese Calligraphy Classes</title>
+		<meta
+			name="description"
+			content="Hand-lettered Japanese calligraphy (書道) in Portland, Oregon. Ink, brush and the way of the brush."
+		/>
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="color-scheme" content="light" />
+		<meta name="theme-color" content="#f3ede0" />
 		<meta property="og:type" content="website" />
-		<meta property="og:site_name" content="Hakurei Shodo" />
-		<meta property="og:title" content="Hakurei Shodo" />
+		<meta property="og:site_name" content="Hakurei Shodō" />
+		<meta property="og:title" content="Hakurei Shodō — Japanese Calligraphy Classes" />
 		<meta property="og:url" content="https://hakureishodo.art/" />
 		<meta property="og:image" content="https://static.hakureishodo.art/images/IMG_6320.jpeg" />
 		<script type="application/ld+json">
@@ -23,33 +29,30 @@
 			document.documentElement.className =
 				document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 		</script>
-		<link rel="stylesheet" href="/css/main.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link
-			rel="preload"
-			href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"
-			as="style"
-			onload="this.onload=null;this.rel='stylesheet'"
+			href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap"
+			rel="stylesheet"
 		/>
-		<noscript
-			><link
-				rel="stylesheet"
-				href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"
-		/></noscript>
+		<link rel="stylesheet" href="/css/main.css" />
 		%sveltekit.head%
 		<script src="/js/newrelic.js"></script>
 	</head>
 	<body data-sveltekit-preload-data="hover" class="layout--home wide">
 		<div style="display: contents">%sveltekit.body%</div>
-		<div id="footer" class="page__footer">
+		<div class="site__footer">
 			<footer>
-				<!-- start custom footer snippets -->
-
-				<!-- end custom footer snippets -->
-				<div class="page__footer-follow">
-					<ul class="social-icons"></ul>
+				<div class="site__footer-inner wrap">
+					<span class="site__footer-seal" aria-hidden="true">白</span>
+					<div class="site__footer-links">
+						<a href="#class-information">Classes</a>
+						<a href="#gallery">Gallery</a>
+						<a href="https://instagram.com/ito.hakurei" rel="noopener noreferrer">Instagram</a>
+						<a href="mailto:hakurei.shodo@gmail.com">Email</a>
+					</div>
+					<div class="site__footer-copy">&copy; 2024 Hakurei Shodō · Portland, Oregon</div>
 				</div>
-
-				<div class="page__footer-copyright">&copy; 2024 Hakurei Shodo.</div>
 			</footer>
 		</div>
 
