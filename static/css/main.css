@@ -503,7 +503,6 @@ section {
 	box-shadow:
 		0 0 0 1px var(--line),
 		0 6px 14px rgba(0, 0, 0, 0.1);
-	transform: rotate(-1.5deg);
 }
 .teacher__avatar img {
 	width: 100%;
@@ -579,7 +578,6 @@ section {
 	font-size: 1.1rem;
 	line-height: 1;
 	writing-mode: vertical-rl;
-	transform: rotate(2deg);
 	box-shadow: inset 0 0 0 2px color-mix(in srgb, var(--akane) 40%, #000);
 	user-select: none;
 }
@@ -850,7 +848,6 @@ section {
 	color: var(--paper);
 	font-family: var(--font-brush);
 	font-size: 1.1rem;
-	transform: rotate(1.5deg);
 }
 .site__footer-copy {
 	font-size: 0.8rem;
