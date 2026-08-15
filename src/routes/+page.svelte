@@ -78,7 +78,7 @@
 						/>
 					</figure>
 					<h3 class="teacher__name">Hakurei Ito</h3>
-					<span class="teacher__role">Shodō Instructor · 伊藤白礼</span>
+					<span class="teacher__role">Shodō Instructor · 伊藤白嶺</span>
 					<div class="teacher__bio">
 						<!-- eslint-disable-next-line svelte/no-at-html-tags -- trusted admin-authored markdown -->
 						{@html p('bio')}
